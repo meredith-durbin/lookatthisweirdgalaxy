@@ -1,0 +1,73 @@
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/static/style.css">
+    <title>Do We Care About This Arp Galaxy</title>
+</head>
+<body>
+
+    <div class="container">
+        <p>Image {{page}} of {{n_images}}</p>
+        <p>Arp{% if galaxy.Arp|length > 4 %}-Madore{% endif %} {{galaxy.Arp}}</p>
+
+        <div class="flex">
+            <div class="img">
+                <p>Scale: 12 arcmin on a side</p>
+                <img src="http://alasky.u-strasbg.fr/hips-thumbnails/thumbnail?ra={{galaxy.RA}}&dec={{galaxy.Dec}}&fov=0.2&width=400&height=400">
+            </div>
+            <div class="img">
+                <p>Scale: 3.6 arcmin on a side</p>
+                <img src="http://alasky.u-strasbg.fr/hips-thumbnails/thumbnail?ra={{galaxy.RA}}&dec={{galaxy.Dec}}&fov=0.06&width=400&height=400">
+            </div>
+        </div>
+
+        <center>
+        <form method="POST"
+        {% if page < n_images %}
+        action="/classify/{{page+1}}"
+        {% else %}
+        action="/classify/{{page}}"
+        {% endif %}>
+        <input type="hidden" name="id" value="Arp{% if galaxy.Arp|length > 4 %}-Madore{% endif %}{{galaxy.Arp}}">
+        <br>
+        Add Arp{% if galaxy.Arp|length > 4 %}-Madore{% endif %} {{galaxy.Arp}} to target list?
+            <input type="radio" name="classify" value="1" id="no"></input><label for="no"> Nope</label>
+            <input type="radio" name="classify" value="2" id="maybe_no"></input><label for="maybe"> Maybe no</label>
+            <input type="radio" name="classify" value="3" id="maybe_yes"></input><label for="maybe"> Maybe yes</label>
+            <input type="radio" name="classify" value="4" id="yes"></input><label for="yes"> Definitely yes</label>
+            <br><br><br>
+            Notes:
+            <input type="text" name="notes" id="notes"></input>
+            <br><br><br>
+            <button type="submit" value="submit" style="padding:10px 20px;font-size:1.2em;">Submit</button>
+        </form>
+        <a href='/results.csv'>Download CSV of results</a> |
+        <a href='/results'>Show results as HTML table</a>
+        </center>
+
+    </div>
+
+</body>
+
+<script type="text/javascript">
+    document.addEventListener('keydown', function(event) {
+        if(event.keyCode == 52) {
+            document.getElementById("yes").checked = true;
+        }
+        else if(event.keyCode == 51) {
+            document.getElementById("maybe_yes").checked = true;
+        }
+        else if(event.keyCode == 50) {
+            document.getElementById("maybe_no").checked = true;
+        }
+        else if(event.keyCode == 49) {
+            document.getElementById("no").checked = true;
+        }
+        if(event.keyCode == 13) {
+            document.forms[0].submit();
+        }
+
+    });
+</script>
+
+</html>

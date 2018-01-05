@@ -1,0 +1,25 @@
+body, html {
+    font-family:Helvetica,Arial,sans-serif;
+    width:100%;
+    margin:0;
+}
+.container {
+    width:90%;
+    margin:0 auto;
+}
+.flex {
+    display: flex;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    justify-content: center;
+}
+.img {
+    margin-right:1em;
+    display:block;
+}
+input#notes {
+    width:500px;
+}
