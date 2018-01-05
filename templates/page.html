@@ -7,8 +7,10 @@
 <body>
 
     <div class="container">
-        <p>Image {{page}} of {{n_images}}</p>
-        <p>Arp{% if galaxy.Arp|length > 4 %}-Madore{% endif %} {{galaxy.Arp}}</p>
+        <center>
+            <h3>Arp{% if galaxy.Arp|length > 4 %}-Madore{% endif %} {{galaxy.Arp}}</h3>
+            <h5>Image {{page}} of {{n_images}}</h5>
+        </center>
 
         <div class="flex">
             <div class="img">
