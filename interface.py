@@ -42,5 +42,5 @@ def send_csv():
     return send_file(outfile)
 
 if __name__ == '__main__':
-    app.debug = True # set this to false before putting on production!!!
+    app.debug = False # set this to false before putting on production!!!
     app.run()
