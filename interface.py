@@ -7,28 +7,73 @@ import tempfile
 
 app = Flask(__name__)
 
-df = pd.read_csv('static/data.csv', dtype=str)
-n_images = df.shape[0]
+df_all = pd.read_csv('static/alldata.csv', dtype=str)
+df_all['Diam'] = df_all['Diam'].astype(float)
 
 handle, outfile = tempfile.mkstemp()
-
 with open(outfile, mode='w') as f:
     f.write('ID,Score,Notes\n')
 
-# mast_url = 'https://archive.stsci.edu/hst/search.php?ra={}&dec={}\
-# &resolver=Resolve&radius=1&sci_aec=S&action=Search\
-# &outputformat=CSV&max_records=9999999'
+handle1, outfile1 = tempfile.mkstemp()
+with open(outfile1, mode='w') as f:
+    f.write('ID,Score,Notes\n')
+
+handle2, outfile2 = tempfile.mkstemp()
+with open(outfile2, mode='w') as f:
+    f.write('ID,Score,Notes\n')
+
+handle3, outfile3 = tempfile.mkstemp()
+with open(outfile3, mode='w') as f:
+    f.write('ID,Score,Notes\n')
 
 @app.route('/', methods=['GET'])
 def index():
-    return render_template('index.html', table = df.to_html(index=False))
+    return render_template('index.html', table = df_all.to_html(index=False))
 
 @app.route('/classify/<int:page>', methods=['GET','POST'])
 def classify(page):
+    df = df_all.query('(Diam < 5) & (Diam > 2)').reset_index()
+    n_images = df.shape[0]
     row = df.iloc[page-1]
     galaxy = row.to_dict()
     if request.method == "POST":
         with open(outfile, mode='a+') as f:
+            f.write('{},{},{}\n'.format(request.form['id'], request.form['classify'],
+                request.form['notes'].replace(',','\\,')))
+    return render_template('page.html', galaxy=galaxy, n_images=n_images, page=page)
+
+@app.route('/classify_1/<int:page>', methods=['GET','POST'])
+def classify_1(page):
+    df = df_all.query('(Diam <= 2) & (Diam > 1)').reset_index()
+    n_images = df.shape[0]
+    row = df.iloc[page-1]
+    galaxy = row.to_dict()
+    if request.method == "POST":
+        with open(outfile1, mode='a+') as f:
+            f.write('{},{},{}\n'.format(request.form['id'], request.form['classify'],
+                request.form['notes'].replace(',','\\,')))
+    return render_template('page.html', galaxy=galaxy, n_images=n_images, page=page)
+
+@app.route('/classify_2/<int:page>', methods=['GET','POST'])
+def classify_2(page):
+    df = df_all.query('(Diam <= 1) & (Diam > 0.5)').reset_index()
+    n_images = df.shape[0]
+    row = df.iloc[page-1]
+    galaxy = row.to_dict()
+    if request.method == "POST":
+        with open(outfile2, mode='a+') as f:
+            f.write('{},{},{}\n'.format(request.form['id'], request.form['classify'],
+                request.form['notes'].replace(',','\\,')))
+    return render_template('page.html', galaxy=galaxy, n_images=n_images, page=page)
+
+@app.route('/classify_3/<int:page>', methods=['GET','POST'])
+def classify_3(page):
+    df = df_all.query('(Diam <= 0.5)').reset_index()
+    n_images = df.shape[0]
+    row = df.iloc[page-1]
+    galaxy = row.to_dict()
+    if request.method == "POST":
+        with open(outfile3, mode='a+') as f:
             f.write('{},{},{}\n'.format(request.form['id'], request.form['classify'],
                 request.form['notes'].replace(',','\\,')))
     return render_template('page.html', galaxy=galaxy, n_images=n_images, page=page)
@@ -41,6 +86,30 @@ def show_table():
 def send_csv():
     return send_file(outfile)
 
+@app.route('/results_1', methods=['GET'])
+def show_table_1():
+    return render_template('index.html', table = pd.read_csv(outfile1, escapechar='\\').to_html(index=False))
+
+@app.route('/results_1.csv', methods=['GET'])
+def send_csv_1():
+    return send_file(outfile1)
+
+@app.route('/results_2', methods=['GET'])
+def show_table_2():
+    return render_template('index.html', table = pd.read_csv(outfile2, escapechar='\\').to_html(index=False))
+
+@app.route('/results_2.csv', methods=['GET'])
+def send_csv_2():
+    return send_file(outfile2)
+
+@app.route('/results_3', methods=['GET'])
+def show_table_3():
+    return render_template('index.html', table = pd.read_csv(outfile3, escapechar='\\').to_html(index=False))
+
+@app.route('/results_3.csv', methods=['GET'])
+def send_csv_3():
+    return send_file(outfile3)
+
 if __name__ == '__main__':
-    app.debug = False # set this to false before putting on production!!!
+    app.debug = True # set this to false before putting on production!!!
     app.run()
