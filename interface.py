@@ -26,6 +26,10 @@ handle3, outfile3 = tempfile.mkstemp()
 with open(outfile3, mode='w') as f:
     f.write('ID,Score,Notes\n')
 
+handle4, outfile4 = tempfile.mkstemp()
+with open(outfile4, mode='w') as f:
+    f.write('ID,Score,Notes\n')
+
 @app.route('/', methods=['GET'])
 def index():
     return render_template('index.html', table = df_all.to_html(index=False))
@@ -78,6 +82,18 @@ def classify_3(page):
                 request.form['notes'].replace(',','\\,')))
     return render_template('page.html', galaxy=galaxy, n_images=n_images, page=page)
 
+@app.route('/classify_4/<int:page>', methods=['GET','POST'])
+def classify_4(page):
+    df = df_all.query('(Diam >= 5)').reset_index()
+    n_images = df.shape[0]
+    row = df.iloc[page-1]
+    galaxy = row.to_dict()
+    if request.method == "POST":
+        with open(outfile4, mode='a+') as f:
+            f.write('{},{},{}\n'.format(request.form['id'], request.form['classify'],
+                request.form['notes'].replace(',','\\,')))
+    return render_template('page.html', galaxy=galaxy, n_images=n_images, page=page)
+
 @app.route('/results', methods=['GET'])
 def show_table():
     return render_template('index.html', table = pd.read_csv(outfile, escapechar='\\').to_html(index=False))
@@ -109,6 +125,14 @@ def show_table_3():
 @app.route('/results_3.csv', methods=['GET'])
 def send_csv_3():
     return send_file(outfile3)
+
+@app.route('/results_4', methods=['GET'])
+def show_table_4():
+    return render_template('index.html', table = pd.read_csv(outfile4, escapechar='\\').to_html(index=False))
+
+@app.route('/results_4.csv', methods=['GET'])
+def send_csv_4():
+    return send_file(outfile4)
 
 if __name__ == '__main__':
     app.debug = True # set this to false before putting on production!!!
