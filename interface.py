@@ -44,7 +44,7 @@ def classify(page):
         with open(outfile, mode='a+') as f:
             f.write('{},{},{}\n'.format(request.form['id'], request.form['classify'],
                 request.form['notes'].replace(',','\\,')))
-    return render_template('page.html', galaxy=galaxy, n_images=n_images, page=page)
+    return render_template('page.html', galaxy=galaxy, n_images=n_images, page=page, n=0)
 
 @app.route('/classify_1/<int:page>', methods=['GET','POST'])
 def classify_1(page):
@@ -56,7 +56,7 @@ def classify_1(page):
         with open(outfile1, mode='a+') as f:
             f.write('{},{},{}\n'.format(request.form['id'], request.form['classify'],
                 request.form['notes'].replace(',','\\,')))
-    return render_template('page.html', galaxy=galaxy, n_images=n_images, page=page)
+    return render_template('page.html', galaxy=galaxy, n_images=n_images, page=page, n=1)
 
 @app.route('/classify_2/<int:page>', methods=['GET','POST'])
 def classify_2(page):
@@ -68,7 +68,7 @@ def classify_2(page):
         with open(outfile2, mode='a+') as f:
             f.write('{},{},{}\n'.format(request.form['id'], request.form['classify'],
                 request.form['notes'].replace(',','\\,')))
-    return render_template('page.html', galaxy=galaxy, n_images=n_images, page=page)
+    return render_template('page.html', galaxy=galaxy, n_images=n_images, page=page, n=2)
 
 @app.route('/classify_3/<int:page>', methods=['GET','POST'])
 def classify_3(page):
@@ -80,7 +80,7 @@ def classify_3(page):
         with open(outfile3, mode='a+') as f:
             f.write('{},{},{}\n'.format(request.form['id'], request.form['classify'],
                 request.form['notes'].replace(',','\\,')))
-    return render_template('page.html', galaxy=galaxy, n_images=n_images, page=page)
+    return render_template('page.html', galaxy=galaxy, n_images=n_images, page=page, n=3)
 
 @app.route('/classify_4/<int:page>', methods=['GET','POST'])
 def classify_4(page):
@@ -92,7 +92,7 @@ def classify_4(page):
         with open(outfile4, mode='a+') as f:
             f.write('{},{},{}\n'.format(request.form['id'], request.form['classify'],
                 request.form['notes'].replace(',','\\,')))
-    return render_template('page.html', galaxy=galaxy, n_images=n_images, page=page)
+    return render_template('page.html', galaxy=galaxy, n_images=n_images, page=page, n=4)
 
 @app.route('/results', methods=['GET'])
 def show_table():

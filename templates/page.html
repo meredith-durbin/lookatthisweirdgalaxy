@@ -26,9 +26,9 @@
         <center>
         <form method="POST"
         {% if page < n_images %}
-        action="/classify/{{page+1}}"
+        action="/classify{%if n>0%}_{{n}}{%endif%}/{{page+1}}"
         {% else %}
-        action="/classify/{{page}}"
+        action="/classify{%if n>0%}_{{n}}{%endif%}/{{page}}"
         {% endif %}>
         <input type="hidden" name="id" value="Arp{% if galaxy.Arp|length > 4 %}-Madore{% endif %}{{galaxy.Arp}}">
         <br>
@@ -43,8 +43,8 @@
             <br><br><br>
             <button type="submit" value="submit" style="padding:10px 20px;font-size:1.2em;">Submit</button>
         </form>
-        <a href='/results.csv'>Download CSV of results</a> |
-        <a href='/results'>Show results as HTML table</a>
+        <a href='/results{%if n>0%}_{{n}}{%endif%}.csv'>Download CSV of results</a> |
+        <a href='/results{%if n>0%}_{{n}}{%endif%}'>Show results as HTML table</a>
         </center>
 
     </div>
