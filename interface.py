@@ -10,6 +10,9 @@ app = Flask(__name__)
 df_all = pd.read_csv('static/alldata.csv', dtype=str)
 df_all['Diam'] = df_all['Diam'].astype(float)
 
+df_cut = pd.read_csv('static/more_cut.csv', dtype=str)
+df_cut['Diam'] = df_cut['Diam'].astype(float)
+
 handle, outfile = tempfile.mkstemp()
 with open(outfile, mode='w') as f:
     f.write('ID,Score,Notes\n')
@@ -60,7 +63,7 @@ def classify_1(page):
 
 @app.route('/classify_2/<int:page>', methods=['GET','POST'])
 def classify_2(page):
-    df = df_all.query('(Diam <= 1) & (Diam > 0.5)').reset_index()
+    df = df_cut.query('(Diam <= 1) & (Diam > 0.5)').reset_index()
     n_images = df.shape[0]
     row = df.iloc[page-1]
     galaxy = row.to_dict()
@@ -72,7 +75,7 @@ def classify_2(page):
 
 @app.route('/classify_3/<int:page>', methods=['GET','POST'])
 def classify_3(page):
-    df = df_all.query('(Diam <= 0.5)').reset_index()
+    df = df_cut.query('(Diam <= 0.5)').reset_index()
     n_images = df.shape[0]
     row = df.iloc[page-1]
     galaxy = row.to_dict()
@@ -135,5 +138,5 @@ def send_csv_4():
     return send_file(outfile4)
 
 if __name__ == '__main__':
-    app.debug = True # set this to false before putting on production!!!
+    app.debug = False # set this to false before putting on production!!!
     app.run()
