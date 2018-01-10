@@ -163,11 +163,11 @@ def show_table_4():
 def send_csv_4():
     return send_file(outfile4)
 
-@app.route('/results_jd', methods=['GET'])
+@app.route('/results_5', methods=['GET'])
 def show_table_jd():
     return render_template('index.html', table = pd.read_csv(outfile_jd, escapechar='\\').to_html(index=False))
 
-@app.route('/results_jd.csv', methods=['GET'])
+@app.route('/results_5.csv', methods=['GET'])
 def send_csv_jd():
     return send_file(outfile_jd)
 
