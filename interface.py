@@ -13,6 +13,9 @@ df_all['Diam'] = df_all['Diam'].astype(float)
 df_cut = pd.read_csv('static/more_cut.csv', dtype=str)
 df_cut['Diam'] = df_cut['Diam'].astype(float)
 
+df_jd = pd.read_csv('static/jd_selections.csv', dtype=str)
+df_jd.fillna('None', inplace=True)
+
 handle, outfile = tempfile.mkstemp()
 with open(outfile, mode='w') as f:
     f.write('ID,Score,Notes\n')
@@ -33,9 +36,32 @@ handle4, outfile4 = tempfile.mkstemp()
 with open(outfile4, mode='w') as f:
     f.write('ID,Score,Notes\n')
 
+handle_jd, outfile_jd = tempfile.mkstemp()
+with open(outfile_jd, mode='w') as f:
+    f.write('ID,Score,RA,Dec,Notes\n')
+
 @app.route('/', methods=['GET'])
 def index():
     return render_template('index.html', table = df_all.to_html(index=False))
+
+@app.route('/classify_5/<int:page>', methods=['GET','POST'])
+def classify_5(page):
+    n_images = df_jd.shape[0]
+    row = df_jd.iloc[page-1]
+    galaxy = row.to_dict()
+    hst = pd.read_csv('https://archive.stsci.edu/hst/search.php?RA={}&DEC={}&radius=6&max_records=100&outputformat=CSV&action=Search'.format(galaxy['RA'],
+        galaxy['Dec'])).shape[0]
+    if hst == 0:
+        hst = 'None'
+    elif hst >= 100:
+        hst = '100+'
+    else:
+        hst -= 1
+    if request.method == "POST":
+        with open(outfile_jd, mode='a+') as f:
+            f.write('{},{},{},{}\n'.format(request.form['id'], request.form['classify'],
+                request.form['coords'], request.form['notes'].replace(',','\\,')))
+    return render_template('page.html', galaxy=galaxy, n_images=n_images, page=page, n=5, hst=hst)
 
 @app.route('/classify/<int:page>', methods=['GET','POST'])
 def classify(page):
@@ -136,6 +162,14 @@ def show_table_4():
 @app.route('/results_4.csv', methods=['GET'])
 def send_csv_4():
     return send_file(outfile4)
+
+@app.route('/results_jd', methods=['GET'])
+def show_table_jd():
+    return render_template('index.html', table = pd.read_csv(outfile_jd, escapechar='\\').to_html(index=False))
+
+@app.route('/results_jd.csv', methods=['GET'])
+def send_csv_jd():
+    return send_file(outfile_jd)
 
 if __name__ == '__main__':
     app.debug = False # set this to false before putting on production!!!

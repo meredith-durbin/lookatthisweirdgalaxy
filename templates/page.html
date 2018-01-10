@@ -31,7 +31,10 @@
         action="/classify{%if n>0%}_{{n}}{%endif%}/{{page}}"
         {% endif %}>
         <input type="hidden" name="id" value="Arp{% if galaxy.Arp|length > 4 %}-Madore{% endif %}{{galaxy.Arp}}">
+        <input type="hidden" name="coords" value="{{galaxy.RA}},{{galaxy.Dec}}">
         <br>
+        <p>Previous HST observations within 6 arcmin: <a href="https://archive.stsci.edu/hst/search.php?RA={{galaxy.RA}}&DEC={{galaxy.Dec}}&radius=6&max_records=9999&outputformat=CSV&action=Search" target="_blank">{{hst}}</a></p>
+        {% if galaxy.Notes is defined %}<p>JD comments: {{galaxy.Notes}}</p>{% endif %}
         Add Arp{% if galaxy.Arp|length > 4 %}-Madore{% endif %} {{galaxy.Arp}} to target list?
             <input type="radio" name="classify" value="1" id="no"></input><label for="no"> Nope</label>
             <input type="radio" name="classify" value="2" id="maybe_no"></input><label for="maybe"> Maybe no</label>
@@ -46,6 +49,7 @@
         <a href='/results{%if n>0%}_{{n}}{%endif%}.csv'>Download CSV of results</a> |
         <a href='/results{%if n>0%}_{{n}}{%endif%}'>Show results as HTML table</a>
         </center>
+        <br><br>
 
     </div>
 
