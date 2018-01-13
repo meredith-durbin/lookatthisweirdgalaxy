@@ -1,0 +1,36 @@
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/static/style.css">
+    <title>{{galaxy.Arp}}</title>
+</head>
+<body>
+
+    <div class="container">
+        <center>
+            <h3>{{galaxy.Arp}}</h3>
+        </center>
+
+        <div class="flex">
+            <div class="img">
+                <p>Scale: 12 arcmin on a side</p>
+                <img src="http://alasky.u-strasbg.fr/hips-thumbnails/thumbnail?ra={{galaxy.RA}}&dec={{galaxy.Dec}}&fov=0.2&width=400&height=400">
+            </div>
+            <div class="img">
+                <p>Scale: 3.6 arcmin on a side</p>
+                <img src="http://alasky.u-strasbg.fr/hips-thumbnails/thumbnail?ra={{galaxy.RA}}&dec={{galaxy.Dec}}&fov=0.06&width=400&height=400">
+            </div>
+        </div>
+        <center>
+            <table>
+                {% for k,v in galaxy.items() %}
+                <tr>
+                    <th>{{k}}</th><td>{{v}}</td>
+                </tr>
+                {% endfor %}
+            </table>
+        </center>
+    </div>
+
+</body>
+</html>

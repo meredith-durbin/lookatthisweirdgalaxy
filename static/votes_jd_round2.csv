@@ -1,0 +1,617 @@
+ID,Score,RA,Dec,Notes
+Arp-Madore0001-505,2,1.0488,-50.6465,
+Arp-Madore0001-505,3,1.1068,-50.6182,
+Arp-Madore0003-414,3,1.5852,-41.4966,
+Arp-Madore0036-660,3,9.5939,-65.7935,
+Arp-Madore0051-272,3,13.4912,-27.1456,
+Arp-Madore0052-321,3,13.7333,-32.0258,
+Arp-Madore0054-634,4,14.1723,-63.4763,
+Arp-Madore0112-554,4,18.5922,-55.404,
+Arp-Madore0136-433,4,24.7686,-43.3599,
+Arp-Madore0138-261,4,25.2704,-26.0243,
+Arp-Madore0147-271,3,27.3796,-27.0804,
+Arp-Madore0200-220,3,30.5842,-21.7646,
+Arp-Madore0219-390,2,35.3697,-38.8022,
+Arp-Madore0226-320,3,37.0822,-31.8804,
+Arp-Madore0314-242,2,49.0461,-24.1998,
+Arp-Madore0329-502,4,52.6779,-50.3071,
+Arp-Madore0333-611,2,53.5549,-61.1008,
+Arp-Madore0333-513,2,53.742,-51.4496,
+Arp-Madore0338-375,4,55.0221,-37.7861,
+Arp-Madore0346-222,4,57.2531,-22.2399,
+Arp-Madore0347-442,2,57.3249,-44.2238,
+Arp-Madore0433-654,2,68.4821,-65.7077,
+Arp-Madore0454-561,3,73.9274,-56.2407,
+Arp-Madore0507-630,3,76.9328,-62.9901,
+Arp-Madore0507-222,3,77.4832,-22.2967,
+Arp-Madore0520-390,3,80.6633,-39.0688,
+Arp-Madore0537-292,3,84.8386,-29.3738,
+Arp-Madore0541-294,4,85.732,-29.7314,
+Arp-Madore0541-524,3,85.7717,-52.7088,
+Arp-Madore0545-453,4,86.7994,-45.4886,
+Arp-Madore0609-473,2,92.631,-47.6736,
+Arp-Madore0630-522,3,97.7863,-52.4237,
+Arp-Madore0630-522,2,97.7863,-52.4237,
+Arp-Madore0643-462,4,101.2617,-46.4485,
+Arp-Madore0804-765,2,120.8316,-77.0752,
+Arp-Madore0949-264,4,147.8524,-27.0167,
+Arp-Madore1021-282,3,156.0658,-28.7306,pretty small though.  Could cut if needed.
+Arp-Madore1116-290,3,169.7245,-29.4204,not the most highly disturbed. Could cut if needed.
+Arp-Madore1124-272,4,171.7189,-27.7053,
+Arp-Madore1252-300,3,193.9079,-30.349,Somewhat low latitude. Interesting dust feature on one\, but merging ellipticals less dramatic...
+Arp-Madore1257-222,2,195.0784,-22.6976,
+Arp-Madore1317-303,4,200.1134,-30.902,
+Arp-Madore1325-271,3,202.0901,-27.567,A bit distant. cut if needed.Could also be chance superposition.
+Arp-Madore1332-331,4,203.7844,-33.4822,
+Arp-Madore1344-301,2,206.8424,-30.4192,well observed  
+Arp-Madore1351-263,3,208.5779,-26.8837,Large but pretty smooth....
+Arp-Madore1806-852,4,275.6705,-85.4074,Why has no one looked at this weird thing yet???
+Arp-Madore1822-714,3,277.0618,-71.701,low latitude. Cut if needed.
+Arp-Madore2019-442,3,305.7545,-44.2673,A bit small.
+Arp-Madore2038-654,3,310.8122,-65.6467,IC 5028\, Vr=1623. In nearby galaxy catalog.
+Arp-Madore2115-273,3,319.5894,-27.3508,
+Arp-Madore2203-281,4,331.5498,-27.9593,
+Arp-Madore2259-692,3,345.7609,-69.2106,Jets or disrupting satellite? Moderately distant...
+Arp2,4,244.075,47.0467,UGC 10310\, Vr=716 km/s\, in S4G
+Arp44,3,156.3875,-2.2217,Highly extincted maybe???
+Arp49,4,218.1075,8.08,
+Arp50,2,359.4925,-14.03,distant.
+Arp51,1,1.57,-13.4483,but what about that weird thing to the upper left of the large frame???
+Arp55,2,138.9825,44.3317,well-observed.
+Arp57,2,199.1675,14.4367,pretty small...
+Arp58,3,127.9925,19.2133,pretty but not major disturbance
+Arp59,3,15.19,-9.185,
+Arp61,2,69.175,-2.2867,
+Arp62,4,178.4,43.455,
+Arp63,2,144.82,32.31,but system to upper left looks a lot more interesting.
+Arp64,2,221.3575,19.465,
+Arp67,3,20.32,-0.545,
+Arp69,4,215.11,35.1883,
+Arp70,4,20.8675,30.785,
+Arp71,2,241.2825,17.7567,probably well-observed.
+Arp72,2,236.7225,17.8717,gorgeous\, observations are mostly STIS and WFPC2...
+Arp75,4,27.8275,-4.055,
+Arp81,3,273.2275,68.3633,Probably too well observed\, but mostly STIS\, WFPC2
+Arp83,4,175.055,15.3433,
+Arp87,2,175.185,22.4283,Observations are mostly WFPC2
+Arp90,3,231.5325,41.675,Obs are mostly WFPC2.
+Arp91,3,233.635,15.195,Most obs WFPC2...
+Arp95,2,218.7575,26.5433,distant.
+Arp96,2,105.7525,86.6033,Love the giant tails\, but distant...
+Arp97,3,181.44,31.06,
+Arp106,3,183.9,28.1767,
+Arp107,4,163.0775,30.0667,"Another ""Why the hell has no one ever observed this""?"
+Arp108,3,45.7725,-22.2167,
+Arp110,3,343.5375,-15.2367,
+Arp111,4,210.42,33.8283,
+Arp112,4,0.3625,31.4333,
+Arp115,2,175.7625,26.2767,
+Arp119,4,19.85,12.4467,
+Arp121,4,14.8475,-4.8033,
+Arp122,3,241.1125,17.75,Existing obs are only ACS-SBC
+Arp123,4,80.635,-11.495,
+Arp125,3,249.5575,41.93,
+Arp126,4,29.5225,3.1,
+Arp127,4,9.7475,-9.0017,
+Arp129,3,144.8525,32.3617,a bit small...
+Arp130,3,0.6575,16.6433,
+Arp133,1,21.435,-1.38,Minkoswki's Object -- jet induced SF. -- NGC 541
+Arp136,4,224.6675,53.8867,
+Arp138,4,179.6775,25.0367,Nice occultor
+Arp140,2,12.77,-7.0633,Seems like 1 decent ACS image.  Evaluate...
+Arp141,4,108.5875,73.48,
+Arp143,4,116.72,39.0317,
+Arp144,4,1.6125,-13.4167,
+Arp145,4,35.7825,41.37,
+Arp146,3,1.685,-6.6367,distant and quite small\, but really cool. Cut if needed.
+Arp147,1,47.8275,1.3133,Check out how pretty: http://hubblesite.org/image/2422/news_release/2008-37
+Arp148,2,166,40.8467,
+Arp150,3,349.875,9.5083,
+Arp155,1,170.91,53.8417,Most are NICMOS. 1 single HST.
+Arp156,3,160.6575,77.495,
+Arp158,4,21.3325,34.025,
+Arp160,2,183.5425,54.5283,Medusa galaxy: http://chandra.harvard.edu/photo/2009/medusa/
+Arp163,3,191.32,27.125,Most obs are STIS\, FOC\, NICMOS...
+Arp164,3,18.9875,5.1783,all NICMOS
+Arp165,3,114.1575,17.885,all nicmos
+Arp166,3,29.385,33.21,could actually be sort of boring
+Arp167,3,132.3425,19.075,Another possibly boring one...
+Arp169,2,333.6875,13.8467,Lots of WFPC2. Not the most interesting\, possibly.
+Arp170,2,349.3,18.7,Obs are mostly WFPC2. and nicmos. Check.
+Arp171,3,220.18,3.4533,could be kinda dull.
+Arp172,3,241.3875,17.6017,smooth.
+Arp173,3,222.86,9.3283,
+Arp176,4,195.9775,-11.5067,
+Arp178,1,216.025,34.8917,https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/N5613s.jpg/1200px-N5613s.jpg
+Arp180,4,73.3425,-4.8017,
+Arp181,2,157.07,79.8233,Fairly minor interaction.
+Arp182,1,351.9875,8.7783,https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Hubble_Interacting_Galaxy_NGC_7674_%282008-04-24%29.jpg/500px-Hubble_Interacting_Galaxy_NGC_7674_%282008-04-24%29.jpg
+Arp186,1,68.5,-8.5783,https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hubble_Interacting_Galaxy_NGC_1614_%282008-04-24%29.jpg/500px-Hubble_Interacting_Galaxy_NGC_1614_%282008-04-24%29.jpg
+Arp192,4,159.2475,18.1367,
+Arp193,1,200.1475,34.1383,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hubble_Interacting_Galaxy_IC_883_%282008-04-24%29.jpg/1024px-Hubble_Interacting_Galaxy_IC_883_%282008-04-24%29.jpg
+Arp194,1,179.47,36.3883,https://www.nasa.gov/images/content/332467main_hs-2009-18-a-large_web.jpg
+Arp195,4,133.46,35.1433,
+Arp197,3,172.7525,20.47,Do we believe tha blue stripe?  Less interesting if not real...
+Arp198,4,164.94,17.6483,
+Arp199,4,214.26,36.5717,
+Arp200,4,43.4225,13.015,
+Arp202,3,135.065,35.7267,
+Arp203,3,172.7875,28.5667,Interesting stuff might be too LSB?
+Arp204,4,200.7075,84.5067,
+Arp208,3,252.7625,47.22,A bit distant .Cut if needed.
+Arp209,1,241.3025,20.5417,Well observed. Can't see image on the web....
+Arp210,1,67.705,64.8483,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwj-487OmNHYAhUCwmMKHeIQBDkQjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fe%2Fe9%2FStarburst_in_a_Dwarf_Irregular_Galaxy.jpg%2F1200px-Starburst_in_a_Dwarf_Irregular_Galaxy.jpg&psig=AOvVaw2BA6WwNGCsx7sMnkRvX6SA&ust=1515804140783946
+Arp212,1,350.125,17.225,1 nicmos exposure
+Arp219,3,54.925,-2.1133,Need to check position and size....
+Arp220,1,233.7375,23.505,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwiYoaiEmdHYAhUR0mMKHR4yDs0QjBwIBA&url=https%3A%2F%2Fwww.nasa.gov%2Fimages%2Fcontent%2F647422main_pia15625-full_full.jpg&psig=AOvVaw3nUsojGcUvI8Oqa6HNl5oD&ust=1515804251268020
+Arp221,4,144.1,-11.3283,
+Arp223,2,349.51,-4.6483,Obs are WFPC2\, NICMOS\, STIS; https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjuvKW6mdHYAhVT62MKHUENA5oQjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F6%2F65%2FNGC7585-HST-R814GB555.jpg%2F1200px-NGC7585-HST-R814GB555.jpg&psig=AOvVaw0TMLaCjcbhgLLLsEYwHprH&ust=1515804301227012
+Arp230,1,11.6,-13.4417,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwiaj4TxmdHYAhUH0mMKHaFiCnkQjBwIBA&url=http%3A%2F%2Fwww.nasa.gov%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fpotw1504a.jpg&psig=AOvVaw09DhDnJXauEXG8DK-KD180&ust=1515804475425887
+Arp232,2,143.445,10.1517,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwips8-pmtHYAhURzGMKHcEzBtoQjBwIBA&url=https%3A%2F%2Fcseligman.com%2Ftext%2Fatlas%2Fngc2911.jpg&psig=AOvVaw1h1IEHrbXbRlaBM3eyU7Ex&ust=1515804541836971
+Arp235,1,2.1925,15.815,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwirzI7CmtHYAhUX82MKHbwSBdkQjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F7%2F73%2FNGC14_-_SDSS_DR14.png&psig=AOvVaw14-RzEEIFOP_viEDg9LkdU&ust=1515804644194983
+Arp238,1,198.8725,62.1283,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwi6poHsmtHYAhUE2mMKHXPXARgQjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F5%2F54%2FHubble_Interacting_Galaxy_UGC_8335_%25282008-04-24%2529.jpg%2F1200px-Hubble_Interacting_Galaxy_UGC_8335_%25282008-04-24%2529.jpg&psig=AOvVaw1cnQ1584PrI3JEF5uPRKXF&ust=1515804740865007
+Arp239,1,205.415,55.6683,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwj44I6Cm9HYAhVbVWMKHfWqB5gQjBwIBA&url=https%3A%2F%2Fi0.wp.com%2Fzooniverse-resources.s3.amazonaws.com%2Fbigblogfiles%2Fgz%2FNGC%25205379(800px).png&psig=AOvVaw3PKIB30eiOv_fb4mNh6UiJ&ust=1515804779727466
+Arp240,1,204.97,0.84,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwi0rdCYm9HYAhUR5GMKHbe-B_8QjBwIBA&url=http%3A%2F%2Fcdn.spacetelescope.org%2Farchives%2Fimages%2Fscreen%2Fheic0810at.jpg&psig=AOvVaw02hlW8ZwW9cnq8kyg5AZzu&ust=1515804829518360
+Arp241,3,219.4625,30.4817,fairly distant
+Arp243,1,129.6,25.755,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwiUoeeym9HYAhVG2WMKHUzqDUMQjBwIBA&url=https%3A%2F%2Fcdn.spacetelescope.org%2Farchives%2Fimages%2Flarge%2Fpotw1742a.jpg&psig=AOvVaw28VyQm2NSywNNpDM9pRzx5&ust=1515804890221422
+Arp249,3,0.08,22.99,
+Arp251,3,13.445,-13.8617,
+Arp252,1,146.2425,-19.725,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwistvHWm9HYAhUW5WMKHY-VC34QjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F00%2FHubble_Interacting_Galaxy_Arp_256_%25282008-04-24%2529.jpg%2F250px-Hubble_Interacting_Galaxy_Arp_256_%25282008-04-24%2529.jpg&psig=AOvVaw3ysgTThM68aFR7OdDLeL8u&ust=1515804963751692
+Arp253,4,145.8525,-5.28,
+Arp255,3,148.2875,7.88,Obs are only FOC or SBC
+Arp256,1,4.7075,-10.3617,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjI3oCsnNHYAhUW8mMKHc0hBrAQjBwIBA&url=http%3A%2F%2Fcdn.spacetelescope.org%2Farchives%2Fimages%2Fscreen%2Fheic0810ag.jpg&psig=AOvVaw1zG2c5Zlu1pV8Ohng4g7NE&ust=1515805142084839
+Arp257,3,132.91,-2.3667,only obs were FOC
+Arp258,3,39.77,18.3933,
+Arp259,1,75.4075,-4.2583,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwi22omCndHYAhVQx2MKHS4vBCwQjBwIBA&url=https%3A%2F%2Fcseligman.com%2Ftext%2Fatlas%2Fngc1741.ic399.jpg&psig=AOvVaw3S7NxQOUVGMj1cj5IuxI8Z&ust=1515805296671893
+Arp260,3,183.4125,16.1217,
+Arp262,3,359.1875,16.8117,
+Arp264,4,150.99,40.7567,
+Arp265,2,193.4725,36.0867,relatively small...
+Arp266,1,194.7575,34.86,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwiRos64ndHYAhUC2WMKHQq4DgEQjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fd%2Fdd%2FStarbirth_with_a_chance_of_winds%253F.jpg%2F1200px-Starbirth_with_a_chance_of_winds%253F.jpg&psig=AOvVaw2lqQ2sm4GxDJPEKeJPQy4m&ust=1515805431385245
+Arp267,2,159.1775,31.5467,smallish
+Arp270,4,162.4575,32.98,almost all obs are STIS or WFPC2. No press release image on web. Check.
+Arp273,1,35.37,39.375,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjxnvWLntHYAhUC9mMKHYZjCTAQjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F14%2FUGC_1810_and_UGC_1813_in_Arp_273_%2528captured_by_the_Hubble_Space_Telescope%2529.jpg%2F1010px-UGC_1810_and_UGC_1813_in_Arp_273_%2528captured_by_the_Hubble_Space_Telescope%2529.jpg&psig=AOvVaw10rBt7ZrUVsJ4d4KUZJ8J4&ust=1515805520901890
+Arp274,1,218.775,5.3483,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwi1t5-bntHYAhUBLmMKHTzxBBMQjBwIBA&url=https%3A%2F%2Fapod.nasa.gov%2Fapod%2Fimage%2F0904%2Farp274_hst_big.jpg&psig=AOvVaw3rys1LafjD5pn_Bf2C12YE&ust=1515805641837657
+Arp275,4,141.48,-11.9833,
+Arp276,3,37.045,19.6,Possible occultor. Not the most interesting...
+Arp277,3,193.7125,2.6533,
+Arp278,4,334.86,29.3983,All obs are NICMOS. https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwifkYbQntHYAhUK52MKHZFnAWcQjBwIBA&url=https%3A%2F%2Fcseligman.com%2Ftext%2Fatlas%2Fngc7253.jpg&psig=AOvVaw2NuPVvorW05u777YIKE2eO&ust=1515805715151162
+Arp-Madore0001-505,2,1.0488,-50.6465,
+Arp280,2,174.435,47.8917,All WFPC2; check; http://www.galaxyzoo.org.s3.amazonaws.com/subjects/standard/1237661358615035960.jpg
+Arp282,4,9.2175,23.9917,
+Arp283,2,139.345,42,Can't find image on line
+Arp287,4,135.66,25.935,"Check images... ""F475X"" -- not sure what the ""X"" is..."
+Arp290,4,30.935,14.7083,
+Arp291,3,160.7025,13.46,
+Arp292,4,148.6375,-6.8567,
+Arp293,3,254.63,58.9367,Only WFC3IR
+Arp296,1,172.0825,58.5417,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwi1ooumoNHYAhVFy2MKHelzBZkQjBwIBA&url=http%3A%2F%2Fwww.spacetelescope.org%2Fstatic%2Farchives%2Fimages%2Flarge%2Fheic0810as.jpg&psig=AOvVaw2QHfX83EaJ2qdMH0dGqnyS&ust=1515806192682566
+Arp298,1,345.815,8.8733,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwiTv-i3oNHYAhVPzmMKHVesAukQjBwIBA&url=http%3A%2F%2Fcdn.spacetelescope.org%2Farchives%2Fimages%2Fscreen%2Fheic0810cd.jpg&psig=AOvVaw3MPDilC5BAkgFxhruA8JQt&ust=1515806236440897
+Arp299,1,172.14,58.5633,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjWhbzEoNHYAhUH7mMKHcigBRUQjBwIBA&url=http%3A%2F%2Fcdn.spacetelescope.org%2Farchives%2Fimages%2Fscreen%2Fheic0810as.jpg&psig=AOvVaw38c_YtlHSAEylLZx7gZIP0&ust=1515806264676481
+Arp300,3,142.01,68.4217,Mostly STIS or WFPC2
+Arp301,3,167.465,24.2617,
+Arp302,1,224.255,24.6167,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwiXyNaCodHYAhUL7GMKHXp9A3kQjBwIBA&url=http%3A%2F%2Fcdn.spacetelescope.org%2Farchives%2Fimages%2Fscreen%2Fheic0810af.jpg&psig=AOvVaw322mA_DgLM-J5PrD5uOXme&ust=1515806396969152
+Arp303,3,146.585,3.045,
+Arp309,3,37.2925,-10.8367,
+Arp321,4,144.7225,-4.86,
+Arp322,3,173.1675,52.95,But what's that big thing up above?
+Arp323,3,358.5425,0.3833,Could be boring. Cut if needed.
+Arp334,3,202.6075,31.62,
+Arp335,2,166.1,4.83,WFPC2: https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwiG_cvhotHYAhUI7WMKHV0DDVEQjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fb%2Fbb%2FNGC_3509_hst_08669_26_R814GB555.png&psig=AOvVaw0_WrW9G1BJMhdmCyvllX1K&ust=1515806792006753
+Arp-Madore0002-510,1,1.2725,-50.8282,
+Arp-Madore0002-503,3,1.3596,-50.2682,WFC3
+Arp-Madore0002-503,1,1.3596,-50.2682,WFC3
+Arp-Madore0003-362,3,1.4948,-36.1366,distant but lots going on.
+Arp-Madore0005-301,3,2.0899,-29.915,
+Arp-Madore0018-485,2,5.342,-48.6426,crazy tail off the thing to the left...check images
+Arp-Madore0033-253,3,8.9499,-25.3764,IC 1558\, Vr=1551. HI. in S4G. In nearby galaxy catalog.
+Arp-Madore0113-264,2,18.8921,-26.4461,fairly minor interaction...
+Arp-Madore0123-685,1,21.213,-68.6184,
+Arp-Madore0134-803,2,23.6478,-80.3149,ESO 013- G 017\, no Vr. no HI. little data.
+Arp-Madore0136-803,2,24.1282,-80.3509,
+Arp-Madore0137-281,1,24.9869,-27.957,
+Arp-Madore0137-281,3,25.0033,-28.0337,
+Arp-Madore0142-435,2,26.2697,-43.5964,ESO 245- G 005\, Vr=391\, WFPC2 only. Has TRGB. 
+Arp-Madore0143-781,2,25.98,-77.9579,ESO 013- G 020 \, Vr=1123. has HI
+Arp-Madore0149-444,1,27.7639,-44.4547,Phoenix Dwarf; Vr=56 km/s
+Arp-Madore0154-441,3,29.181,-43.9696,
+Arp-Madore0155-580,3,29.4074,-57.7869,Weird but not super weird spiral. Could cut...
+Arp-Madore0158-783,2,29.6903,-78.3981,
+Arp-Madore0159-215,3,30.5676,-21.7579,Distant. Could cut if needed.
+Arp-Madore0202-795,2,30.5296,-79.7086,
+Arp-Madore0203-795,2,30.639,-79.6639,
+Arp-Madore0203-325,3,31.4353,-32.6784,
+Arp-Madore0211-732,3,32.8924,-73.1626,Check other imaging. If diffuse stuff not there\, cut.
+Arp-Madore0242-600,2,40.9624,-59.9408,
+Arp-Madore0307-411,3,47.4081,-41.0324,ESO 300- G 014\, Vr=955 km/s\, in S4G; obs is only FOC
+Arp-Madore0311-252,3,48.4177,-25.1859,UGCA 061\, Vr=1733km/s\, in S4G. HI
+Arp-Madore0311-573,3,48.2661,-57.3424,ESO 116- G 012. Vr=1146\, HRC\, FOS\, single WFPC2. Check. in S4G
+
+Arp-Madore0316-543,3,49.4244,-54.3799,Fairly distant. Could cut...
+Arp-Madore0323-363,1,51.3139,-36.3667,
+Arp-Madore0331-360,2,53.4206,-35.8631,AM 0331-360\, Vr=1540\, In fornax cluster
+Arp-Madore0335-244,3,54.3707,-24.5034,Mostly STIS or WFPC2. Check.  Not the most extreme galaxy. Could cut.
+Arp-Madore0338-354,1,55.0395,-35.6311,NGC 1427A\, Vr=2028 km/s https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwislpDAqNHYAhULzGMKHT6XB-sQjBwIBA&url=https%3A%2F%2Fapod.nasa.gov%2Fapod%2Fimage%2F0503%2Fngc1427a_hst_full.jpg&psig=AOvVaw3RzT5IQSoTMInf25BkXnX0&ust=1515808405146079
+Arp-Madore0340-381,2,55.4945,-38.0313,too distant...
+Arp-Madore0357-594,2,59.6515,-59.5805,
+Arp-Madore0418-470,3,65.0744,-46.9401,Check other imaging. If diffuse stuff not there\, cut.
+Arp-Madore0422-473,2,66.0832,-47.5263,
+Arp-Madore0448-320,3,72.4749,-31.9617,Limited WPFC2. NGC 1679\, Vr=1052 km/s\, https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjdq_GzqdHYAhUL3mMKHZizCHQQjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F5%2F5f%2FNGC1679-hst-R814GB300.jpg%2F600px-NGC1679-hst-R814GB300.jpg&psig=AOvVaw2GBByFBmQPX_l1CsmvZckJ&ust=1515808630350189
+Arp-Madore0506-382,2,77.0303,-38.3098,ESO 305- G 009\, Vr=1021: would be pretty\, but just a late type Scd...
+Arp-Madore0510-330,3,77.993,-32.9776,UGCA 106\, Vr=929 km/s\, S4G. GALEX. Not intrinsically disturbed but good SF... Could cut.
+Arp-Madore0510-260,3,78.0865,-26.053,Disturbed but not crazy. Could cut.
+Arp-Madore0619-271,2,95.4187,-27.2367,NGC 2217\, Vr=1619 km/s. Well studied. Not intrinsically fascinating. Could cut.
+Arp-Madore0620-363,3,95.4893,-36.5556,
+Arp-Madore0625-355,2,96.8563,-36.0172,
+Arp-Madore0656-704,2,103.9601,-70.7475,
+Arp-Madore0658-590,3,104.7698,-59.1289,
+Arp-Madore0726-453,2,111.8969,-45.6847,ESO 257- G?017\, Vr=1015 km/s.  Has WFPC2 814W only. Nuclear cluster paper on it?
+Arp-Madore0755-585,1,119.2097,-59.1271,IC 2220; confirmed as reflection nebula.
+Arp-Madore0839-745,3,129.6712,-75.1547,ESO 036- G 006\, Vr=1143.\, HI. In nearby galaxy catalog.
+Arp-Madore0855-674,3,134.0963,-67.8735,low latitude. Cut if needed.
+Arp-Madore0857-685,3,134.3767,-69.0612,low latitude. Cut if needed.
+Arp-Madore0957-223,1,149.8733,-22.8268,NGC3081; https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjj-7y4rNHYAhUC2WMKHQq4DgEQjBwIBA&url=http%3A%2F%2Fcdn.spacetelescope.org%2Farchives%2Fimages%2Fscreen%2Fpotw1423a.jpg&psig=AOvVaw0hNwNNdZYnX3DZPdZ5iuD3&ust=1515809463990312
+Arp-Madore0957-280,2,149.8984,-28.3369,Disturbed but not crazy. Could cut.ed but not crazy. Could cut.
+Arp-Madore1025-433,4,156.9684,-43.9057,NGC 3256\, Vr=2804; https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwj_3-HgrNHYAhUCHGMKHUXBCN8QjBwIBA&url=http%3A%2F%2Fcdn.spacetelescope.org%2Farchives%2Fimages%2Fscreen%2Fheic0810ar.jpg&psig=AOvVaw2801C0wRIgwo0RphEbg_xH&ust=1515809545493342
+Arp-Madore1025-433,1,156.9684,-43.9057,NGC 3256\, Vr=2804; https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwj_3-HgrNHYAhUCHGMKHUXBCN8QjBwIBA&url=http%3A%2F%2Fcdn.spacetelescope.org%2Farchives%2Fimages%2Fscreen%2Fheic0810ar.jpg&psig=AOvVaw2801C0wRIgwo0RphEbg_xH&ust=1515809545493342
+Arp-Madore1029-343,3,157.9673,-34.8543,NGC3281; WFPC2 obs\, no image on-line . Not highly disturbed. Could cut.
+Arp-Madore1033-365,3,159.0435,-37.2362,ESO 375- G 071\, Vr=956; HI\, nearby galaxy catlog. Low latitude though.
+Arp-Madore1038-481,2,160.0781,-48.5714,ESO 214- G 017; Vr=1052 km/s; low latitude
+Arp-Madore1055-391,3,164.466,-39.4379,ESO 318- G 024\, Vr=1000
+Arp-Madore1122-262,3,171.3063,-26.74,Not all that highly disturbed. Could be cut if needed.
+Arp-Madore1143-280,2,176.4263,-28.3661,
+Arp-Madore1148-750,2,177.6035,-75.3732,too low latitude
+Arp-Madore1154-320,2,179.1621,-32.3884,
+Arp-Madore1201-291,2,181.051,-29.5668,ESO 440- G 045. No redshift.
+Arp-Madore1203-223,3,181.5306,-22.85,Could cut. 
+Arp-Madore1203-275,3,181.6065,-28.1734,cut if needed.
+Arp-Madore1212-375,3,183.854,-38.1413,Cut if needed.
+Arp-Madore1213-430,3,184.1079,-43.3129,NGC 4219 likely starburst. Single filter 606W WFPC2 but could get another filter..: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/NGC_4219_hst_06359_G606.png/600px-NGC_4219_hst_06359_G606.png
+Arp-Madore1214-371,2,184.2385,-37.4645,ESO 380- G 008\, Vr=2112
+Arp-Madore1220-335,2,185.725,-34.1889,
+Arp-Madore1229-512,4,187.9748,-51.7477,ESO 218- G 008 \, Vr=2617; DO SEPARATE HST PROGRAM ON THIS????
+Arp-Madore1238-254,3,190.2639,-25.9593,
+Arp-Madore1248-254,2,192.8951,-26.0951,ESO 507- G 026\, Vr=3126; HI
+Arp-Madore1248-255,2,192.9035,-26.1201,
+Arp-Madore1249-254,2,192.9369,-26.0917,
+Arp-Madore1256-433,1,194.7109,-43.8748,
+Arp-Madore1256-433,3,194.7443,-43.8381,a bit small/distant. Could cut.
+Arp-Madore1259-323,4,195.5249,-32.7854,Adjust center
+Arp-Madore1259-322,4,195.5583,-32.762,Part of previous one.
+Arp-Madore1303-371,3,196.5334,-37.5841,A bit distant\, but kinda crazy...
+Arp-Madore1303-371,2,196.6714,-37.5739,
+Arp-Madore1307-425,3,197.5007,-43.2111,
+Arp-Madore1307-461,3,197.5183,-46.4361,low latitude so image may be confusing. Cut if needed.
+Arp-Madore1324-294,3,201.7534,-30.0742,
+Arp-Madore1324-375,3,201.8664,-38.1874,Cut if needed.
+Arp-Madore1324-411,2,201.9057,-41.484,Existing WFPC2 probably enough. Check.
+Arp-Madore1338-293,1,205.3998,-29.9106,NGC5264; has ACS; https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjY4djd5dHYAhVSzGMKHXYHD2IQjBwIBA&url=http%3A%2F%2Fcdn.sci-news.com%2Fimages%2Fenlarge3%2Fimage_4120e-NGC-5264.jpg&psig=AOvVaw3wty1EIapvImwnR2d5toIN&ust=1515824839352849
+Arp-Madore1342-413,4,206.2491,-41.8572,ESO 325- G?011  Vr=545
+Arp-Madore1346-354,1,207.328,-36.0649,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjLzMuh5tHYAhWELmMKHen_BAYQjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F6%2F61%2FColor_cutout_hst_11986_04_wfpc2_f814w_f606w_wf_sci_ESO_383-87.jpg&psig=AOvVaw2qWTQ1Hi2zOfY8ZnzFrpcG&ust=1515824981842260
+Arp-Madore1349-273,4,208.0881,-27.8915,ESO 445- G 064 \, Vr=4907. 
+Arp-Madore1358-324,2,210.3433,-33.0629,NGC5398; lots of WFPC2
+Arp-Madore1419-263,3,215.5257,-26.8593,Kinda far looking. Check redshift and cut if needed.
+Arp-Madore1546-284,3,237.3317,-28.9069,Low latitude so a bit hard to interpret\, but nifty
+Arp-Madore1705-773,2,258.2828,-77.5694,sad to pass this up.
+Arp-Madore1823-670,1,277.1686,-67.0184,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwil9sbA59HYAhVF4WMKHd7xB68QjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F6%2F61%2FIC_4710_-_HST.png%2F1061px-IC_4710_-_HST.png&psig=AOvVaw2in-XWVk0-NVlMtRB4zxJL&ust=1515825313819602
+Arp-Madore1847-645,3,283.0994,-64.8348,Vr=1006 km/s.  Irregular but not disturbed\, so cut if needed.
+Arp-Madore1912-860,4,292.6274,-86.0162,
+Arp-Madore1931-610,3,294.0032,-61.0292,Vr=1792 km/s
+Arp-Madore1942-502,1,296.4679,-50.3029,
+Arp-Madore1957-471,4,300.247,-47.0683,1 FOC observation
+Arp-Madore2001-602,3,301.5547,-60.2131,
+Arp-Madore2034-521,3,309.5859,-52.1093,can we target companion as well?
+Arp-Madore2035-521,3,309.6899,-52.1406,
+Arp-Madore2038-323,3,310.3105,-32.483,Disturbed but not crazy. Could cut.
+Arp-Madore2050-441,2,313.5838,-44.0628,
+Arp-Madore2055-541,4,314.7093,-54.1357,AM 2055-541; line is real.
+Arp-Madore2056-392,3,315.0327,-39.2994,
+Arp-Madore2105-332,3,317.029,-33.2409,
+Arp-Madore2128-430,4,322.9443,-42.8489,Nicmos only
+Arp-Madore2146-350,4,327.4425,-34.8746,
+Arp-Madore2159-541,3,330.6574,-54.0766,Vr=1708 km/s\, so not that nearby...
+Arp-Madore2206-280,4,332.2727,-27.8077,
+Arp-Madore2213-370,4,334.042,-36.8437,only nicmos
+Arp-Madore2217-245,1,335.1871,-24.6796,
+Arp-Madore2220-423,3,335.8919,-42.2782,vr=2421 km/s so not that close...
+Arp-Madore2246-490,1,342.4186,-48.8517,ESO-239-IG-002
+Arp-Madore2246-490,1,342.4186,-48.8517,ESO-239-IG-002
+Arp-Madore2254-373,3,344.2292,-37.3492,WFPC2 but only in 606. Could get other one. https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwi08uiN4tLYAhVC02MKHXLOBZsQjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fb%2Fb5%2FNGC_7421_hst_06359_606.png&psig=AOvVaw16FLNBtMCoSZHkcWIIalyA&ust=1515858228188649
+Arp-Madore2258-353,3,345.2009,-35.3729,Not the most exciting. Could cut.
+Arp-Madore2318-420,2,350.2013,-41.7342,Vr=1623 km/s
+Arp-Madore2333-381,1,354.0645,-37.9382,NGC7713; https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjin8yJ49LYAhUI02MKHUjACiIQjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Ff%2Ff1%2FNGC_7713.jpg%2F300px-NGC_7713.jpg&psig=AOvVaw1f4Dv2jjRnOKysMQ2jaUjI&ust=1515858477615210
+Arp-Madore2346-380,3,357.3478,-37.7736,Vr=648 km/s so pretty close
+Arp-Madore2353-815,3,359.0747,-81.5716,Vr=1940 km/s; could cut -- basically just a loose Scd...
+Arp4,3,27.1075,-12.3817,Could cut -- not that disturbed...
+Arp5,1,171.1025,3.3267,NGC3664; https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjIitmd5NLYAhVHy2MKHedwBmIQjBwIBA&url=https%3A%2F%2Fs-media-cache-ak0.pinimg.com%2Foriginals%2Fee%2F09%2F8b%2Fee098bd35fe9b772a890790eb10fc64f.jpg&psig=AOvVaw1a9RTDFYZxYXAxv5kgotI_&ust=1515858783665611
+Arp6,4,123.31,45.9917,NICMOS only.
+Arp7,3,132.5725,-16.5767,Not all that disturbed. Could cut.
+Arp10,4,34.61,5.6533,
+Arp12,3,128.8225,28.4733,Not that disturbed. Could cut.
+Arp15,4,342.915,-5.5583,
+Arp19,3,7.9375,-5.1533,HST obs are mostly parallels -- may not have hit target. SDSS image: https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwifuryK5dLYAhUQ9GMKHZwNCxEQjBwIBA&url=http%3A%2F%2Fwww.galaxyzoo.org.s3.amazonaws.com%2Fsubjects%2Fstandard%2F1237679078055673871.jpg&psig=AOvVaw2_vsZaxhrWCJqKhuO7lyFD&ust=1515859012882249
+Arp20,3,64.975,2.095,A bit small...
+Arp21,3,166.245,30.0267,a bit small
+Arp24,3,163.6525,56.99,Mostly STIS\, some WFPC2 web images are fairly weak looking: https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwinnKXP5dLYAhVS_WMKHaxcAS0QjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F21%2FNGC3445-HST-R814GB300-lin.jpg%2F250px-NGC3445-HST-R814GB300-lin.jpg&psig=AOvVaw0r7vMYbyvsvJLMobZevSr3&ust=1515859148075440
+Arp28,3,352.115,22.4217,Not that extreme.  Could cut.
+Arp-Madore0000-803,2,0.6883,-80.3465,
+Arp-Madore0004-413,3,1.7761,-41.3566,
+Arp-Madore0004-413,3,1.7844,-41.3583,
+Arp-Madore0010-242,2,3.2634,-24.2136,Pretty byt not that extreme.
+Arp-Madore0012-573,3,3.8141,-57.247,
+Arp-Madore0028-230,4,7.8461,-22.764,ESO 473- G 02\, Vr=541 so close
+Arp-Madore0038-634,3,10.1611,-63.4406,pretty but not that disturbed. Could cut.
+Arp-Madore0055-464,3,14.4147,-46.4483,weird but small. could cut.
+Arp-Madore0115-444,4,19.5418,-44.4588,
+Arp-Madore0116-241,4,19.691,-23.9423,
+Arp-Madore0122-381,4,21.3037,-38.0684,
+Arp-Madore0133-393,3,23.8737,-39.3848,Nice pair but not all that disturbed. Could cut.
+Arp-Madore0133-393,2,23.9029,-39.3582,
+Arp-Madore0134-373,4,24.1003,-37.3286,NGC633; NICMOS only
+Arp-Madore0135-650,4,24.3502,-64.8959,
+Arp-Madore0136-301,3,24.7781,-29.9149,
+Arp-Madore0144-585,4,26.6196,-58.6705,ESO 114- G 007 \, Vr=2214 km/s
+Arp-Madore0144-585,3,26.6196,-58.6705,ESO 114- G 007 \, Vr=2214 km/s
+Arp-Madore0218-321,1,35.1075,-31.9798,
+Arp-Madore0218-321,3,35.2573,-31.9435,
+Arp-Madore0222-250,1,36.2647,-24.7947,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjc5fS859LYAhUG2GMKHSZ6DggQjBwIBA&url=http%3A%2F%2Fcdn.spacetelescope.org%2Farchives%2Fimages%2Fscreen%2Fheic1218a.jpg&psig=AOvVaw0b2Hc0gd_ap8nrC43a2klJ&ust=1515859669725550
+Arp-Madore0227-484,3,37.321,-48.4912,Probably not a collisional ring.
+Arp-Madore0230-393,2,38.1709,-39.2987,NGC 0986A\, Vr=1435 so not that close...
+Arp-Madore0230-524,3,38.0918,-52.5119,A little distant\, but pretty disturbed.
+Arp-Madore0230-524,3,38.1251,-52.4936,
+Arp-Madore0239-242,3,40.5221,-24.1308,
+Arp-Madore0300-222,3,45.78,-22.2132,
+Arp-Madore0301-252,2,45.9628,-25.2738,UGCA 050\, Vr=1726 km/s
+Arp-Madore0313-545,4,48.7642,-54.8125,
+Arp-Madore0316-235,3,49.6845,-23.7838,Vr=1538. Pretty weird but don't know if too LSB for obs to be useful...
+Arp-Madore0337-334,2,54.7982,-33.5318,ESO 358-IG 047\, Vr=16008km/s so really far.
+Arp-Madore0338-224,3,55.2372,-22.5651,Could cut. Not that disturbed. But\, possible inner starburst.
+Arp-Madore0338-453,2,55.1384,-45.3583,Vr=1551
+Arp-Madore0349-383,1,57.9157,-38.4528,Has SN observations. 
+Arp-Madore0357-460,3,59.8132,-45.8725,Horologium Dwarf Vr=898 km/s
+Arp-Madore0400-420,3,60.4645,-41.9401,
+Arp-Madore0403-555,3,61.0736,-55.7747,
+Arp-Madore0405-552,3,61.7689,-55.3243,
+Arp-Madore0409-563,3,62.7621,-56.4853,Possible starburst but could cut.
+Arp-Madore0410-325,3,63.0136,-32.8676,
+Arp-Madore0410-330,3,63.0218,-32.8793,
+Arp-Madore0413-352,3,63.8799,-35.343,kind of small. Could cut.
+Arp-Madore0421-404,3,65.673,-40.6027,
+Arp-Madore0427-273,4,67.403,-27.4235,NGC 1592\, Vr=944 km/s\, lots of good ancillary data. (Not stellar)
+Arp-Madore0431-434,3,68.1683,-43.7255,Not that extreme.  Could cut. The trails to the lower left are cool though.
+Arp-Madore0432-625,4,68.1396,-62.8643,AM 0432-625 \, no redshift. showed up in a radio catalog. Ring is real. 
+Arp-Madore0435-521,2,69.2382,-52.1806,
+Arp-Madore0447-595,3,72.089,-59.7956,Nicmos plus 1 filter WFPC2. Not all that disturbed. Could cut.
+Arp-Madore0456-224,3,74.72,-22.6737,
+Arp-Madore0459-340,4,75.4211,-34.0321,
+Arp-Madore0515-540,3,79.0251,-54.108,
+Arp-Madore0519-611,3,80.0817,-61.2583,Get both galaxies on...
+Arp-Madore0519-612,4,80.0893,-61.295,
+Arp-Madore0540-382,2,85.4868,-38.4587,Fairly small. Could include if needed.
+Arp-Madore0545-520,3,86.6003,-52.0894,
+Arp-Madore0547-474,3,87.1012,-47.7368,Fairly distant Antennae analog...
+Arp-Madore0557-765,3,88.8792,-76.9226,Disturbed but not crazy. Could cut.
+Arp-Madore0558-335,3,90.0158,-33.9206,
+Arp-Madore0559-234,2,90.281,-23.6751,NGC 2139; WFPC2\, ACS wasn't targeted? Check coverage adequate. https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjs2aru7NLYAhUSS2MKHWQSCV8QjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F8%2F8d%2FNGC_2139_hst_08599_26_08632_28_R814_G_B300.png&psig=AOvVaw3-o8H4hCbqAP5LC7sflQGu&ust=1515861109288383
+Arp-Madore0603-330,1,91.4342,-33.0825,ESO 364- G?029\, Vr-787. Has ACS
+Arp-Madore0608-333,4,92.4888,-33.6443,
+Arp-Madore0612-373,3,93.4468,-37.6757,A bit smooth. Maybe hints of dust?
+Arp-Madore0613-263,2,93.8308,-26.579,UGCA 122\, Vr=1794
+Arp-Madore0642-801,3,99.6873,-80.2475,possibly a bit distant\, but nice and messy.
+Arp-Madore0644-741,1,100.7779,-74.2362,Lots of good imaging.
+Arp-Madore0704-582,1,106.3337,-58.5245,Good ACS
+Arp-Madore0728-664,3,112.2461,-66.8987,
+Arp-Madore0729-745,2,112.1582,-75.0541,
+Arp-Madore0942-313,3,146.14,-31.7905,Companion is more interesting...
+Arp-Madore0942-313,4,146.19,-31.8273,
+Arp-Madore0956-282,4,149.6845,-28.623,
+Arp-Madore1023-292,3,156.4478,-29.6013,
+Arp-Madore1032-315,3,158.5845,-32.187,
+Arp-Madore1034-272,1,159.3053,-27.68,
+Arp-Madore1102-233,2,166.3111,-23.8435,
+Arp-Madore1112-232,1,168.6744,-23.726,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwiG5_HQ7tLYAhUPw2MKHYghB7gQjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F25%2FNGC_3597.png%2F300px-NGC_3597.png&psig=AOvVaw0nGWwG5e1MKP2T2nbOI3_U&ust=1515861584122339
+Arp-Madore1133-374,2,173.8831,-37.9567,
+Arp-Madore1133-374,3,173.9709,-38.0001,NGC 3749; Vr=2731 Inspect actual coverage in HLA...
+Arp-Madore1158-345,4,180.2487,-35.1951,
+Arp-Madore1200-251,3,180.8711,-25.4684,ESO 505- G 007\, Vr=1776; Coud be too LSB. Is that a star or a nucleus?
+Arp-Madore1202-275,2,181.172,-28.1167,
+Arp-Madore1242-402,1,191.1855,-40.7135,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjU3_X5v9PYAhVPwGMKHQBeDnQQjBwIBA&url=http%3A%2F%2Fcdn.spacetelescope.org%2Farchives%2Fimages%2Fscreen%2Fopo9916a.jpg&psig=AOvVaw105B2Mo7YtpxG7T5b44rgw&ust=1515883411011558
+Arp-Madore1243-333,1,191.5016,-33.8382,ESO 381- G 020\, Vr=589\, Has ACS
+Arp-Madore1250-401,2,193.2184,-40.4915,Doesn't look that interesting in image on NED.
+Arp-Madore1254-321,4,194.2916,-32.5152,
+Arp-Madore1255-430,4,194.5339,-43.325,
+Arp-Madore1255-430,1,194.5925,-43.3532,(Think it was in the previous entry...)
+Arp-Madore1306-282,1,197.2889,-28.6447,NGC 4980; https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwiPpqzxwNPYAhUW1mMKHRV_BmwQjxwIAw&url=https%3A%2F%2Fwww.nasa.gov%2Fmission_pages%2Fhubble%2Fscience%2Fhydra-spiral.html&psig=AOvVaw1CwNUSCziL6xfEf-7in-Tg&ust=1515883668010693
+Arp-Madore1307-235,3,197.469,-24.2411,ESO 508- G 019\, Vr=2925 km/s; in S4G. Has HI.  Could cut...
+Arp-Madore1316-240,3,199.7616,-24.4226,
+Arp-Madore1321-242,3,201.0189,-24.6605,UGCA 352\, Vr=2042. Maybe cut -- too LSB?
+Arp-Madore1352-263,1,208.7655,-26.7832,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwi93MfvwdPYAhVR82MKHaNWBAAQjBwIBA&url=https%3A%2F%2Fapod.nasa.gov%2Fapod%2Fimage%2F0108%2Feso510_hst_big.jpg&psig=AOvVaw2Q5AxzMQ5rHGxaWvxzRFj4&ust=1515883932428895
+Arp-Madore1354-250,4,209.3081,-25.247,
+Arp-Madore1356-332,3,209.9444,-33.6805,a bit distant but should be pretty...
+Arp-Madore1401-252,3,211.0669,-25.6411,disrupting outer loop. Could be interesting\, but could cut if needed.
+Arp-Madore1401-243,3,211.1563,-24.8292,Only 1 filter of WFPC2. Could cut -- lower priority.
+Arp-Madore1401-243,3,211.1939,-24.8274,UGCA 383 (Vr=2337 km/s; part of previous one UGCA 382...Double nucleus or is that dust (looks more single in 2MASS...???
+Arp-Madore1426-224,3,217.3445,-22.9307,unusual structure for edge on. Could cut.
+Arp-Madore2029-544,3,308.3503,-54.534,ESO 186- G 060 (Vr=3625) -- source on left in IC 5021 at similar Vr. 
+Arp-Madore2029-544,3,308.4,-54.5255,IC 5021 -- can get single pointing for this and previous one.
+Arp-Madore2031-440,4,308.6597,-43.8393,
+Arp-Madore2038-382,4,310.3094,-38.198,
+Arp-Madore2040-295,4,310.8911,-29.7058,Very unusual dust lane (spiral arm dragged out vertically?)
+Arp-Madore2042-382,3,311.3691,-38.1741,Fairly smooth but good straight tidal arm
+Arp-Madore2042-382,1,311.4027,-38.2306," ESO 341-IG 012; Winkler et al 1993 says ""Galaxy with superposed star"""
+Arp-Madore2048-571,3,313.0004,-57.0685,Almost all imaging is in weird filters. Decent F606W w/ WFPC2 but then UV and NICMOS. Check.
+Arp-Madore2051-410,3,313.6249,-40.8127,
+Arp-Madore2100-393,3,315.8894,-39.4464,ESO 341- G 032\, Vr=2762 km/s. In S4G
+Arp-Madore2102-252,3,316.4322,-25.2411,A bit small and distant..  But pretty. Cut if needed.
+Arp-Madore2103-550,3,316.8904,-54.9532,ESO 187- G 05\, Vr=1405. Has only 814W imaging.  Check if worth adding blue filter.
+Arp-Madore2105-632,3,317.3004,-63.2837,1 ACS 606W filter in archive.  Check -- could add F814W or 475W
+Arp-Madore2113-590,2,319.4239,-58.8683,Cute but far and stars are in the way?  Decent filler
+Arp-Madore2113-341,4,319.2605,-33.9902,
+Arp-Madore2126-601,4,322.6752,-60.0033,
+Arp-Madore2128-302,4,322.7861,-30.271,ESO 465- G 004\, Vr=10037 km/s. in collisional ring catalog.  
+Arp-Madore2133-384,4,324.0436,-38.5424,
+Arp-Madore2134-471,4,324.359,-47.0349,
+Arp-Madore2143-464,1,326.5632,-46.5187,NGC 7119 Vr=9666 km/s Check if foreground extinction is too high?  (Ned suggests AV=0.053 so fine)
+Arp-Madore2143-464,4,326.5632,-46.5187,NGC 7119 Vr=9666 km/s Check if foreground extinction is too high?  (Ned suggests AV=0.053 so fine)
+Arp-Madore2143-464,4,326.5715,-46.5187,(same as previous)
+Arp-Madore2159-320,3,330.4982,-31.8652,NGC7172\, one viable WFPC2 606W observation; Check. Could add second filter.
+Arp-Madore2159-321,1,330.511,-31.9702,NGC 7173; Decent ACS imaging. Ooooooo!  https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwj1vpP6x9PYAhVFxGMKHSIMA6QQjxwIAw&url=https%3A%2F%2Fde.wikipedia.org%2Fwiki%2FNGC_7173&psig=AOvVaw382r-yoJBeB3H1tAjiYuKl&ust=1515885558832797
+Arp-Madore2159-321,1,330.5318,-31.9951,
+Arp-Madore2159-330,4,330.68,-32.8031,
+Arp-Madore2203-430,2,331.6447,-42.8608,ESO 288- G 040\, Vr=2241
+Arp-Madore2204-311,4,331.7215,-31.0523,
+Arp-Madore2209-472,3,333.1209,-47.2225,Disturbed but not crazy. Could cut.
+Arp-Madore2210-262,4,333.2824,-26.1487,
+Arp-Madore2210-274,3,333.3778,-27.5568,could cut. Not that disturbed. But\, possible inner starburst.
+Arp-Madore2210-693,3,333.6806,-69.3614,IC 5173\, Vr=3107
+Arp-Madore2211-274,2,333.6686,-27.4679,Good filler\, but not that dramatic
+Arp-Madore2222-275,3,336.3671,-27.6939,distant but messy.
+Arp-Madore2224-310,3,336.7245,-30.8866,
+Arp-Madore2240-892,3,346.8969,-89.1192,NGC 2573B\, V4=2558
+Arp-Madore2303-305,4,346.4513,-30.6114,
+Arp-Madore2323-323,1,351.6093,-32.3881,
+Arp-Madore2325-473,4,351.9559,-47.3812,
+Arp-Madore2339-661,4,355.634,-65.9558,
+Arp-Madore2339-661,4,355.6711,-65.9458,Duplicate of previous
+Arp-Madore2346-303,2,357.3201,-30.2503,Possible weird dust late. Filler.
+Arp-Madore2348-410,4,357.7225,-40.7351,
+Arp-Madore2348-405,4,357.7432,-40.7201,(duplicate of previous)
+Arp-Madore2350-302,3,358.3297,-30.1534,ESO 471-IG 037\, Vr=14493 so pretty distant. But\, means scale of tails is huge.
+Arp-Madore2350-410,3,358.3449,-40.8084,NGC7764A -- Very little of the HST seems usable. Check! 
+Arp-Madore0044-521,4,11.7692,-52.0521,
+Arp-Madore0117-412,4,19.9954,-41.2362,
+Arp-Madore0223-403,3,36.3046,-40.4299,
+Arp-Madore0223-245,1,36.4186,-24.7684,
+Arp-Madore0223-245,3,36.4895,-24.712,
+Arp-Madore0227-264,3,37.3647,-26.5345,
+Arp-Madore0322-374,3,50.9787,-37.5138,WFPC2 606W only. Check.
+Arp-Madore0413-283,3,63.7925,-28.4859,
+Arp-Madore0417-391,3,64.9142,-39.1726,possibly a bit distant.
+Arp-Madore0526-393,3,82.0084,-39.5769,
+Arp-Madore1214-255,3,184.2416,-26.2111,
+Arp-Madore1325-292,4,201.9612,-29.6189,
+Arp-Madore1440-241,4,220.8893,-24.4633,
+Arp-Madore1953-260,4,299.1222,-25.9144,
+Arp-Madore2026-424,4,307.3869,-42.5026,
+Arp-Madore2145-351,3,327.0772,-34.9539,For that much HST obs\, it's not clear there's much useful imaging beyond 606. Check. https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwinmL-DiNTYAhVW02MKHdIwBxgQjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F2e%2FNGC_7130_hst_05479_606.png%2F1200px-NGC_7130_hst_05479_606.png&psig=AOvVaw3nUJPCrGTjPDgBQI7WySDG&ust=1515902744435154
+Arp-Madore2145-351,3,327.0814,-34.9506,see comments on previous
+Arp-Madore2209-382,4,333.187,-38.174,distant\, but gotta love those giant arcs.
+Arp-Madore2209-382,4,333.187,-38.174,same as previous.
+Arp-Madore2225-250,4,337.1501,-24.8457,
+Arp-Madore2230-481,4,338.4319,-48.0234,
+Arp-Madore2244-651,4,341.8369,-65.0644,HST images is UV FOC.
+Arp-Madore2258-595,3,345.377,-59.636,
+Arp-Madore2353-291,3,359.0982,-29.0266,
+Arp3,2,339.1425,-2.905,Vr=1691 km/s
+Arp11,3,17.3475,14.3367,
+Arp18,4,181.3975,50.5417,Only NICMOS imaging! Ground based color image here: https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwiYhvb_idTYAhVW5WMKHbT7ASAQjBwIBA&url=http%3A%2F%2Fwww.deepskyforum.com%2Fattachment.php%3Fattachmentid%3D186%26d%3D1335722678&psig=AOvVaw1Bg0wqS5uccTKcCtom-QYz&ust=1515903201698869
+Arp22,3,179.8775,-19.2633,NGC4027; F814W imaging only. Could get second band. Found NNT image:  https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjK3NypitTYAhUJ7mMKHQjECOUQjxwIAw&url=https%3A%2F%2Fde.wikipedia.org%2Fwiki%2FNGC_4027&psig=AOvVaw273sR6mJseQ8NCG3R0VAy_&ust=1515903379963791
+Arp23,1,190.385,41.15,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwiKvdmui9TYAhVDxWMKHU1QDSkQjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F3c%2FNGC_4618_hst_09042_05446_R814B450_606.png%2F1024px-NGC_4618_hst_09042_05446_R814B450_606.png&psig=AOvVaw3WMFzfevhn8GZg5ig7XdZP&ust=1515903661077077
+Arp25,2,111.805,85.755,NGC 2276; Nice WFPC2\, but doesn't cover the diffuse side. Consider doing???
+Arp34,3,190.405,26.0717,could cut.  
+Arp35,3,5.595,-1.3033,a bit distant. could cut?
+Arp65,4,5.465,22.4,Only STIS obs.
+Arp78,1,29.835,19.0067,NGC772; good ACS
+Arp82,2,122.8075,25.2067,NGC2535
+Arp84,4,209.66,37.425,None of the HST data seems useful. Check. Ground based image: https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjUmOH2jdTYAhUQ3GMKHUOfDGcQjBwIBA&url=http%3A%2F%2F1.bp.blogspot.com%2F-SFRwQQ2WbtU%2FTr5uprlWtbI%2FAAAAAAAAED0%2F3BlLZRpTbJc%2Fs1600%2FGTC_ARP84_n.jpg&psig=AOvVaw3aOXGwc7yNe3Ncrh0RoIDw&ust=1515904337317564
+Arp86,3,356.77,29.4833,
+Arp89,3,130.6675,14.285,ground based image: https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwj0juHFjtTYAhUK3mMKHbeRBXQQjBwIBA&url=http%3A%2F%2Ffaculty.etsu.edu%2Fsmithbj%2Fresearch%2Fsg%2Fsdss%2Farp89.jpg&psig=AOvVaw1r2pArmntK3LQ4klj3Cs69&ust=1515904499852339
+Arp93,4,337.15,-24.8433,
+Arp94,1,155.8625,19.8983,NGC 3226; https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwiF7MiJj9TYAhUM0GMKHZ4sAq8QjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fb%2Fbb%2FNGC_3227_NGC_3226_Hubble_WikiSky.jpg&psig=AOvVaw11865vmjOJBK_mdt0UDD4K&ust=1515904652636651
+Arp100,3,7.16,-11.5733,
+Arp101,2,241.1325,14.8183,Possible filler
+Arp104,1,203.045,62.7667,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwiZ9bi_j9TYAhUV_mMKHawzDFYQjBwIBA&url=http%3A%2F%2Fwww.caelumobservatory.com%2Fmlsc%2Fn5216thumb.jpg&psig=AOvVaw36-vJqGDIlUGb0t3Vkx-VN&ust=1515904761847611
+Arp105,1,167.805,28.695,The guitar https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjDu8fyj9TYAhVW-2MKHeHDBFUQjBwIBA&url=http%3A%2F%2Ffaculty.etsu.edu%2Fsmithbj%2Fresearch%2Fsg%2Fsdss%2Farp105_2.jpg&psig=AOvVaw3oFzSwg_bwRisU7aNT3dSY&ust=1515904875703265
+Arp113,4,4.5925,30.08,
+Arp120,1,186.94,13.0083,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjdovybkNTYAhUQ3mMKHY1RAy4QjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F7%2F76%2FNGC4438-NGC4435-eso1131a.jpg%2F1200px-NGC4438-NGC4435-eso1131a.jpg&psig=AOvVaw0BJhykWzm-Sa1AEU5v45Mb&ust=1515904965175336
+Arp157,1,21.1475,3.7933,NGC 520; https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjBvcrAkNTYAhVL12MKHTVuCHsQjBwIBA&url=https%3A%2F%2Fcdn.eso.org%2Fimages%2Fscreen%2Fpotw1048a.jpg&psig=AOvVaw295sVYyF-ca5i9PO3tS_fu&ust=1515904991881886
+Arp159,3,192.94,25.775,Has WFPC2; Check quality
+Arp174,3,149.6675,28.8767,NGC 3068; Only COS imaging\, Vr=6256 km/s; Likely not that interesting? Could cut.
+Arp175,3,188.2175,11.4033,Not that interesting. Could cut.
+Arp184,3,85.5175,69.38,NGC1961; WFPC2 but most in non-useful filters. Check. 
+Arp188,1,241.515,55.4217,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjPj6CLktTYAhVK_WMKHQiNAXYQjBwIBA&url=https%3A%2F%2Fapod.nasa.gov%2Fapod%2Fimage%2F1211%2FTadpoleGalaxyPS1V9snyder.jpg&psig=AOvVaw0n95tSm5LAGVAGaB6iiNlq&ust=1515905469132711
+Arp190,3,42.5825,12.8883,
+Arp205,3,163.6625,54.3067,lots of UV. Only narrow band optical. Check.
+Arp206,2,163.13,36.62,
+Arp213,1,61.9475,69.8133,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwio2eXuktTYAhVN4GMKHTtZAagQjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F4%2F49%2FArp213-606-814.jpg&psig=AOvVaw1BFH8ArgJa2bteYhDUhiq1&ust=1515905675650090
+Arp214,3,173.1475,53.0667,NGC3718; Check HLA -- not sure if imaging is adequate. https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwj4vJy7k9TYAhVU-WMKHcviDmkQjBwIBA&url=http%3A%2F%2Fwww.spacetelescope.org%2Fstatic%2Farchives%2Ffitsimages%2Fscreen%2Famirreza_kamkar_05.jpg&psig=AOvVaw37Uavw0YvC_q_NPLArsJL0&ust=1515905835530738
+Arp215,1,138.5225,40.1133,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjEnofwk9TYAhUT8GMKHU-6AN0QjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F13%2FNGC_2782_hst_06673_11134_R814GB555B606.png%2F1200px-NGC_2782_hst_06673_11134_R814GB555B606.png&psig=AOvVaw0JvKOnOalsFttMd4jWFkyk&ust=1515905937086103
+Arp216,3,352.195,3.5117,NGC7679; WFPC 606W only\, and may target other galaxy.  Check
+Arp217,3,159.6925,53.5017,NGC3310; Most HST not useful. Check. Ground based: https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwijytnNldTYAhUG6mMKHZufAZYQjBwIBA&url=https%3A%2F%2Ffuturism.com%2Fwp-content%2Fuploads%2F2015%2F01%2FNGC-3310.jpg&psig=AOvVaw0tJeDidlYyatz8jt5cMUg4&ust=1515906388988961
+Arp222,3,354.975,-12.2917,NGC7727?; HST obs need to be checked. https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwis4fjmldTYAhVX_WMKHVRNAP8QjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F12%2FNGC_7727_Hubble_WikiSky.jpg%2F1200px-NGC_7727_Hubble_WikiSky.jpg&psig=AOvVaw1D_FOB_KA6FT-n7Vbq5pxh&ust=1515906452560227
+Arp224,1,177.7775,55.0783,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwj9seTtltTYAhUC9GMKHTIEA_wQjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fa3%2FEvolution_in_slow_motion.jpg%2F1200px-Evolution_in_slow_motion.jpg&psig=AOvVaw0t25jthTgKGtxqeU-xfZYj&ust=1515906750702257
+Arp225,3,133.9125,78.225,NGC2655; Check HLA -- not clear if imaging is useable.
+Arp226,1,335.1875,-24.6783,This system is bonkers: https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjW_u_Ll9TYAhUBSWMKHcerDtEQjBwIBA&url=http%3A%2F%2Fcdn.sci-news.com%2Fimages%2Fenlarge2%2Fimage_3491e-NGC-7252.jpg&psig=AOvVaw1HmJQvmWWEN2qg4uji_CgM&ust=1515906946475574
+Arp227,1,20.0275,3.4167,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwj2lvnLmNTYAhUOz2MKHWq4BGUQjBwIBA&url=http%3A%2F%2Fwww.capella-observatory.com%2Fimages%2FGalaxies%2FNGC470.jpg&psig=AOvVaw1PRYm3FHyaxv_YLc9QA5Oe&ust=1515907161814433
+Arp231,3,10.89,-4.1183,
+Arp236,1,16.9475,-17.5067,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwi-mdyemdTYAhVU-WMKHcviDmkQjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F3%2F30%2FHubble_Interacting_Galaxy_IC_1623_%25282008-04-24%2529.jpg&psig=AOvVaw1aFHazMpFOMs4eFiWFJQ8y&ust=1515907384220323
+Arp242,1,191.5425,30.7333,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjZ38nWmdTYAhUJ-GMKHf0rBFQQjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fdb%2FNGC4676.jpg&psig=AOvVaw2C2WMPohF--AUMBW4SCHYL&ust=1515907506954344
+Arp244,1,180.47,-18.865,
+Arp245,2,146.425,-14.3267,Can't fine images on line. Check HLA.
+Arp248,3,176.6875,-3.8467,
+Arp254,1,230.385,-7.3767,N5917 -- why so many observations of this????? It's a mystery.
+Arp261,3,222.3775,-10.1733,Check HLA.
+Arp263,4,156.2725,17.16,
+Arp268,1,124.775,70.7133,
+Arp269,1,187.6525,41.64,NGC 4490; https://www.spacetelescope.org/images/potw1419a/
+Arp271,1,210.855,-6.07,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjCoqvOndTYAhUE9WMKHR2SApYQjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Ff%2Ff0%2FArp_271.tif%2Flossy-page1-1200px-Arp_271.tif.jpg&psig=AOvVaw35a1THwn1P1eFesSsy3tN-&ust=1515908560475051
+Arp279,3,48.5375,-2.8233,Not all that disturbed. Could cut.
+Arp281,1,190.525,32.54,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjdy4bondTYAhUM9mMKHQueALoQjBwIBA&url=https%3A%2F%2Fs-media-cache-ak0.pinimg.com%2Foriginals%2F4b%2F87%2F8c%2F4b878c8b90a6e418d6cdc6c2166a807f.jpg&psig=AOvVaw3bH8Hu6-UK9mgdjcqb5QSL&ust=1515908612987014
+Arp284,1,354.06,2.155,https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwibqMT4ndTYAhUO6WMKHWT4DuEQjBwIBA&url=https%3A%2F%2Fmk0astronomynow9oh6g.kinstacdn.com%2Fwp-content%2Fuploads%2F2015%2F01%2Fheic1503a.jpg&psig=AOvVaw2UZNAy1kdWaMjgYaENuWqm&ust=1515908642291860
+Arp288,3,203.735,13.8317,One WFC3 275W image (weird choice). Get optical?
+Arp289,3,179.03,-19.895,1 FOC image. 
+Arp294,3,174.9275,31.9083,Limited WFPC2 obs. Check. Could cut. https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwigi_fpntTYAhVQ62MKHUW3BKMQjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fce%2FArp294-NGC3788-NGC3786-HST-606.jpg%2F768px-Arp294-NGC3788-NGC3786-HST-606.jpg&psig=AOvVaw0fgDZ3AO9Zn_gi_JxH98HH&ust=1515908853976059
+Arp295,3,355.45,-3.6767,WFCP2 303W and 814W. Check.
+Arp297,1,221.3325,38.7317,Mostly STIS. https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjXnNLVn9TYAhVC92MKHW6RCPcQjBwIBA&url=http%3A%2F%2Fpages.astronomy.ua.edu%2Fgifimages%2Fngc5754hst.jpg&psig=AOvVaw0xfGnRQOrUzxKf-GYfmLN8&ust=1515909069731963
+Arp305,3,179.6225,27.5283,NGC 4016; Deep proprietary data but I think it's not pointed towards this. Check HLA
+Arp306,2,23.1225,4.595,UGC 01102\, Vr=1954 km/s
+Arp313,3,179.4025,32.2767,Mostly STIS. WFCP2 300W and 606W -- Check HLA.
+Arp314,4,344.505,-3.7683,
+Arp316,1,154.605,21.8933,
+Arp318,3,32.335,-10.1333,NGC 0833/0838 ; Check HLA
+Arp319,1,338.9875,33.965,Stephans Quintent: https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwi3j5qQpNTYAhUE-mMKHRDxB_oQjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F4%2F48%2FStephan%2527s_Quintet_Hubble_2009.full_denoise.jpg&psig=AOvVaw1tR1PsLY-BmXgYA30yCDPZ&ust=1515910302456295
+Arp320,3,174.465,21.9733,
+Arp332,3,47.1175,-23.0517,1 FOC observation
+Arp336,3,133.8975,58.7333,A lot of weird imaging. Maybe a couple usable WFPC2 but no images on internet. Check HLA
+Arp-Madore0257-370,3,44.9885,-36.9422,Could cut. Would  be better served by deep ground based...
+Arp-Madore0317-664,1,49.5641,-66.5007,NGC 1313; https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwiJv_S_pdTYAhUQ12MKHZsKAIYQjBwIBA&url=http%3A%2F%2Fcdn.spacetelescope.org%2Farchives%2Fimages%2Fscreen%2Fopo0705c.jpg&psig=AOvVaw12HT9bqvajLiQEFXu3lq-w&ust=1515910675591991
+Arp-Madore0354-423,1,58.9438,-42.3654,NGC 1487; https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjWkYD5pdTYAhXBKGMKHdNdBBIQjBwIBA&url=https%3A%2F%2Fimages-assets.nasa.gov%2Fimage%2F30-million-light-years-away-hubble-sees-merging-galaxies_24715543202_o%2F30-million-light-years-away-hubble-sees-merging-galaxies_24715543202_o~small.jpg&psig=AOvVaw1qqTyhmfM2AzLeCczSB-Wx&ust=1515910789316385
+Arp-Madore0426-480,4,66.9857,-47.927,
+Arp-Madore0445-572,4,71.5738,-57.3431,
+Arp-Madore0446-623,2,71.6413,-62.462,
+Arp-Madore0453-372,3,73.7159,-37.3226,a bit distant. Could cut.
+Arp-Madore0503-380,3,76.3169,-37.9714,Nice but not that disturbed. Could cut.
+Arp-Madore0504-274,2,76.7069,-27.6548,
+Arp-Madore0517-321,3,79.9516,-32.1436,Not drastically disturbed. Could cut.
+Arp-Madore0547-330,4,87.3762,-33.0628,
+Arp-Madore0719-625,2,109.9847,-63.0632,1 ACS 606W filter in archive.  Check -- could add F814W or 475WACS 606W filter in archive.  Check -- could add F814W or 475W
+Arp-Madore1007-664,1,152.2094,-67.0276,
+Arp-Madore1008-253,1,152.6451,-25.82,
+Arp-Madore1010-445,3,153.134,-45.2362,
+Arp-Madore1033-242,1,158.8439,-24.7508,1 ACS 606W filter in archive.  Check -- could add F814W or 475W 
+Arp-Madore1034-271,2,159.1469,-27.5164,NGC3309; 
+Arp-Madore1034-271,2,159.1761,-27.5297,
+Arp-Madore1034-271,3,159.2596,-27.5682,NGC 3312; None of the HST obs seem usable.
+Arp-Madore1034-423,2,159.2902,-42.85,
+Arp-Madore1036-272,3,159.6393,-27.7372,
+Arp-Madore1041-250,2,160.8596,-25.3109,
+Arp-Madore1041-250,2,160.9305,-25.3327,
+Arp-Madore1054-325,3,164.2698,-33.1576,ESO 376-IG 027 (on right); Check HLA...only WFPC2
+Arp-Madore1125-285,3,171.8805,-29.1771,1 WFPC2 606W. Check HLA/depth/coverage.
+Arp-Madore1157-242,3,180.1319,-24.7218,Could cut. 
+Arp-Madore1207-292,3,182.5593,-29.7399,
+Arp-Madore1210-341,2,183.2754,-34.4781,
+Arp-Madore1210-341,2,183.2838,-34.4914,
+Arp-Madore1223-385,3,186.54,-39.1252,
+Arp-Madore1258-254,2,195.2673,-26.094,
+Arp-Madore1315-350,3,199.6097,-35.3529,
+Arp-Madore1331-451,1,203.6649,-45.5391,
+Arp-Madore1348-333,1,207.8263,-33.8154,1 FOC image. 
+Arp-Madore1421-282,3,215.979,-28.6847,
+Arp-Madore1517-311,3,230.0742,-31.4268,a bit distant. could cut. 
+Arp-Madore1907-570,2,287.8349,-57.0522,WFPC2 814 and 300W. Check HLA. Could add blue filter maybe. 
+Arp-Madore1914-603,4,289.6525,-60.4972,
+Arp-Madore1959-550,3,300.8679,-54.9825,Could cut -- not that disturbed...
+Arp-Madore2011-705,1,304.2335,-70.7643,
+Arp-Madore2036-542,2,310.1566,-54.3005,
+Arp-Madore2106-374,3,317.5034,-37.501,

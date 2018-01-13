@@ -16,6 +16,9 @@ df_cut['Diam'] = df_cut['Diam'].astype(float)
 df_jd = pd.read_csv('static/jd_selections.csv', dtype=str)
 df_jd.fillna('None', inplace=True)
 
+df_jd2 = pd.read_csv('static/jd_round2_ned.csv', dtype=str, index_col='Arp')
+df_jd2.fillna('None', inplace=True)
+
 handle, outfile = tempfile.mkstemp()
 with open(outfile, mode='w') as f:
     f.write('ID,Score,Notes\n')
@@ -43,6 +46,23 @@ with open(outfile_jd, mode='w') as f:
 @app.route('/', methods=['GET'])
 def index():
     return render_template('index.html', table = df_all.to_html(index=False))
+
+@app.route('/gallery', methods=['GET'])
+def gallery():
+    thumb_list = []
+    for img in glob.glob('static/img/*.jpg'):
+        thumb_dict = {'img':img, 'name':img.split('/')[-1].split('.')[0]}
+        thumb_list.append(thumb_dict)
+    return render_template('gallery.html', thumb_list = thumb_list)
+
+cols = 'RA,Dec,ObjectName,Object,Score,Notes,Galactic Extinction,cz,z,Basic-Data,Basic-Data.1,Galaxy Morphology,Activity Type,Kronap.AB,Kronap.AB.1,Kronap.AB.2,Kronap.AB.3,K_s_total,K_s_total.1,K_s_total.2,K_s_total.3,25micron,25micron.1,25micron.2,25micron.3,60micron,60micron.1,60micron.2,60micron.3,1.4GHz,1.4GHz.1,1.4GHz.2,1.4GHz.3,1.4GHz.4,1.4GHz.5,1.4GHz.6,1.4GHz.7,20.0K-magarcsec^-2,25.0B-magarcsec^-2'.split(',')
+
+from collections import OrderedDict
+
+@app.route('/view/<arp>', methods=['GET'])
+def view(arp):
+    galaxy = df_jd2[cols].loc[arp].to_dict(into=OrderedDict)
+    return render_template('view.html', galaxy = galaxy)
 
 @app.route('/classify_5/<int:page>', methods=['GET','POST'])
 def classify_5(page):
