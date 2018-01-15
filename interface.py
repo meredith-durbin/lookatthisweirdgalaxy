@@ -16,8 +16,11 @@ df_cut['Diam'] = df_cut['Diam'].astype(float)
 df_jd = pd.read_csv('static/jd_selections.csv', dtype=str)
 df_jd.fillna('None', inplace=True)
 
-df_jd2 = pd.read_csv('static/jd_round2_ned.csv', dtype=str, index_col='Arp')
+df_jd2 = pd.read_csv('static/jd_round3_ned.csv', dtype=str, index_col='ID')
 df_jd2.fillna('None', inplace=True)
+
+# df_jd3 = pd.read_csv('static/jd_pass3.csv', dtype=str, index_col='ID')
+# df_jd3.fillna('None', inplace=True)
 
 handle, outfile = tempfile.mkstemp()
 with open(outfile, mode='w') as f:
@@ -50,8 +53,11 @@ def index():
 @app.route('/gallery', methods=['GET'])
 def gallery():
     thumb_list = []
-    for img in glob.glob('static/img/*.jpg'):
-        thumb_dict = {'img':img, 'name':img.split('/')[-1].split('.')[0]}
+    for name,k in df_jd2['Keep?'].iteritems():
+        img = 'static/img/{}.jpg'.format(name)
+        if not os.path.exists(img):
+            img = 'static/img/{}.jpg'.format(name[:-1])
+        thumb_dict = {'img':img, 'name':name, 'shortname':name.replace('Arp-Madore','AM'), 'keep':k}
         thumb_list.append(thumb_dict)
     return render_template('gallery.html', thumb_list = thumb_list)
 
@@ -192,5 +198,5 @@ def send_csv_jd():
     return send_file(outfile_jd)
 
 if __name__ == '__main__':
-    app.debug = False # set this to false before putting on production!!!
+    app.debug = True # set this to false before putting on production!!!
     app.run()

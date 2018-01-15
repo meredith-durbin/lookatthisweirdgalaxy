@@ -11,9 +11,34 @@
             <h3>Final Candidates</h3>
         </center>
 
+        <center>
+            <h4>Keep</h4>
+        </center>
         <div class="flex">
             {% for thumb in thumb_list %}
-                <a href="/view/{{thumb.name}}"><img class="thumb" src="{{thumb.img}}" alt='{{thumb.name}}'></a>
+                {% if thumb.keep == 'Y' %}
+                    <a class="thumb" href="/view/{{thumb.name}}"><img src="{{thumb.img}}">{{thumb.shortname}}</a>
+                {% endif %}
+            {% endfor %}
+        </div>
+        <center>
+            <h4>Maybe</h4>
+        </center>
+        <div class="flex">
+            {% for thumb in thumb_list %}
+                {% if thumb.keep == 'M' %}
+                    <a class="thumb" href="/view/{{thumb.name}}"><img src="{{thumb.img}}">{{thumb.shortname}}</a>
+                {% endif %}
+            {% endfor %}
+        </div>
+        <center>
+            <h4>No</h4>
+        </center>
+        <div class="flex">
+            {% for thumb in thumb_list %}
+                {% if thumb.keep == 'N' %}
+                    <a class="thumb" href="/view/{{thumb.name}}"><img src="{{thumb.img}}">{{thumb.shortname}}</a>
+                {% endif %}
             {% endfor %}
         </div>
 
