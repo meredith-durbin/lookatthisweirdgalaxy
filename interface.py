@@ -79,7 +79,10 @@ from collections import OrderedDict
 
 @app.route('/view/<arp>', methods=['GET'])
 def view(arp):
-    galaxy = df_jd2[cols].loc[arp].to_dict(into=OrderedDict)
+    try:
+        galaxy = df_jd2[cols].loc[arp].to_dict(into=OrderedDict)
+    except:
+        galaxy = df_jd3.loc[arp].to_dict(into=OrderedDict)
     return render_template('view.html', galaxy = galaxy)
 
 @app.route('/classify_5/<int:page>', methods=['GET','POST'])
