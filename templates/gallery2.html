@@ -1,0 +1,28 @@
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/static/style.css">
+    <title>Weird Galaxies 2: Electric Boogaloo</title>
+</head>
+<body>
+
+    <div class="container">
+        <center>
+            <h3>(Sort of) Final Candidates</h3>
+        </center>
+
+        <center>
+            <h4>Score = 2</h4>
+        </center>
+        <div class="flex">
+            {% for thumb in thumb_list %}
+                {% if thumb.keep == '2' %}
+                    <a class="thumb" href="/view/{{thumb.name}}"><img src="{{thumb.img}}">{{thumb.shortname}}</a>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+
+</body>
+
+</html>
