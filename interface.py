@@ -22,6 +22,10 @@ df_jd2.fillna('None', inplace=True)
 df_jd3 = pd.read_csv('static/jd_round3_ned_2.csv', dtype=str, index_col='ID')
 df_jd3.fillna('None', inplace=True)
 
+df_final = pd.read_csv('static/final.csv', dtype=str, index_col='ID')
+df_final.fillna('None', inplace=True)
+
+
 handle, outfile = tempfile.mkstemp()
 with open(outfile, mode='w') as f:
     f.write('ID,Score,Notes\n')
@@ -70,8 +74,18 @@ def gallery2():
             img = 'static/img/{}.jpg'.format(name[:-1])
         thumb_dict = {'img':img, 'name':name, 'shortname':name.replace('Arp-Madore','AM'), 'keep':k}
         thumb_list.append(thumb_dict)
-    print(thumb_list)
     return render_template('gallery2.html', thumb_list = thumb_list)
+
+@app.route('/gallery_final', methods=['GET'])
+def gallery_final():
+    thumb_list = []
+    for name in df_final.index.values:
+        img = 'static/img/{}_lg.jpg'.format(name)
+        # if not os.path.exists(img):
+        #     img = 'static/img/{}_lg.jpg'.format(name[:-1])
+        thumb_dict = {'img':img, 'name':name, 'shortname':name.replace('Arp-Madore','AM')}
+        thumb_list.append(thumb_dict)
+    return render_template('gallery_final.html', thumb_list = thumb_list)
 
 cols = 'RA,Dec,ObjectName,Object,Score,Notes,Galactic Extinction,cz,z,Basic-Data,Basic-Data.1,Galaxy Morphology,Activity Type,Kronap.AB,Kronap.AB.1,Kronap.AB.2,Kronap.AB.3,K_s_total,K_s_total.1,K_s_total.2,K_s_total.3,25micron,25micron.1,25micron.2,25micron.3,60micron,60micron.1,60micron.2,60micron.3,1.4GHz,1.4GHz.1,1.4GHz.2,1.4GHz.3,1.4GHz.4,1.4GHz.5,1.4GHz.6,1.4GHz.7,20.0K-magarcsec^-2,25.0B-magarcsec^-2'.split(',')
 

@@ -1,0 +1,23 @@
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/static/style.css">
+    <title>Speak Now Or Forever Hold Your Peace</title>
+</head>
+<body>
+
+    <div class="container">
+        <center>
+            <h3>The Final 350</h3>
+        </center>
+
+        <div class="flex">
+            {% for thumb in thumb_list %}
+                <a class="thumb_lg" href="/view/{{thumb.name}}"><img src="{{thumb.img}}">{{thumb.shortname}}</a>
+            {% endfor %}
+        </div>
+    </div>
+
+</body>
+
+</html>

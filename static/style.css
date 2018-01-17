@@ -33,3 +33,11 @@ input#notes {
     font-size:10pt;
     text-align:center;
 }
+.thumb_lg {
+    display:inline-block;
+    width:200px;
+    height:220px;
+    margin:1px;
+    font-size:10pt;
+    text-align:center;
+}
