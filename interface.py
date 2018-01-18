@@ -79,7 +79,7 @@ def gallery2():
 @app.route('/gallery_final', methods=['GET'])
 def gallery_final():
     thumb_list = []
-    for name in df_final.index.values:
+    for name in df_final.ID_suffix.values:
         img = 'static/img/{}_lg.jpg'.format(name)
         thumb_dict = {'img':img, 'name':name, 'shortname':name.replace('Arp-Madore','AM')}
         thumb_list.append(thumb_dict)
@@ -97,7 +97,7 @@ def view(arp):
         try:
             galaxy = df_jd3.loc[arp].to_dict(into=OrderedDict)
         except:
-            galaxy = df_final.loc[arp].to_dict(into=OrderedDict)
+            galaxy = df_final.set_index('ID_suffix').loc[arp].to_dict(into=OrderedDict)
     return render_template('view.html', galaxy = galaxy)
 
 @app.route('/classify_5/<int:page>', methods=['GET','POST'])
