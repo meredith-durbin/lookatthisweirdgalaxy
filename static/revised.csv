@@ -1,31 +1,31 @@
 ID,Vr (km/s),Score,RA,Dec,Keep?,Filter,Ben Comments,Notes,ID_suffix
 Arp10,9108,4,34.61,5.6533,Y,F606W,nan,nan,Arp10
-Arp100,nan,3,7.16,-11.5733,Y,F606W,nan,nan,Arp100
+Arp100,nan,3,7.1459,-11.5852,Y,F606W,ADJUSTED COORDS,nan,Arp100
 Arp101,nan,2,241.1325,14.8183,Y,F606W,nan,Possible filler,Arp101
-Arp106,nan,3,183.9,28.1767,Y,F606W,nan,nan,Arp106
-Arp107,9946,4,163.0775,30.0667,Y,F606W,nan,"Another ""Why the hell has no one ever observed this""?",Arp107
+Arp106,nan,3,183.9009,28.1727,Y,F606W,ADJUSTED COORDS,nan,Arp106
+Arp107,9946,4,163.0679,30.0644,Y,F606W,ADJUSTED COORDS,"Another ""Why the hell has no one ever observed this""?",Arp107
 Arp108,nan,3,45.7725,-22.2167,Y,F606W,nan,nan,Arp108
-Arp11,nan,3,17.3475,14.3367,Y,F606W,nan,nan,Arp11
+Arp11,nan,3,17.3556,14.3501,Y,F606W,ADJUSTED COORDS,nan,Arp11
 Arp110,nan,3,343.5375,-15.2367,Y,F606W,nan,nan,Arp110
 Arp111,8094,4,210.42,33.8283,Y,F606W,nan,nan,Arp111
-Arp112,nan,4,0.3625,31.4333,Y,F606W,nan,nan,Arp112
-Arp113,7167,4,4.5925,30.08,Y,F606W,nan,nan,Arp113
-Arp119,nan,4,19.85,12.4467,Y,F606W,nan,nan,Arp119
+Arp112,nan,4,0.3731,31.4399,Y,F606W,ADJUSTED COORDS,nan,Arp112
+Arp113,7167,4,4.5943,30.0689,Y,F606W,ADJUSTED COORDS,nan,Arp113
+Arp119,nan,4,19.85,12.4549,Y,F606W,ADJUSTED COORDS,nan,Arp119
 Arp121,5771,4,14.8475,-4.8033,Y,F606W,nan,nan,Arp121
 Arp122,nan,3,241.1125,17.75,Y,F606W,nan,Existing obs are only ACS-SBC,Arp122
-Arp123,2394,4,80.635,-11.495,Y,F606W,nan,nan,Arp123
+Arp123,2394,4,80.6449,-11.5053,Y,F606W,ADJUSTED COORDS,nan,Arp123
 Arp125,nan,3,249.5575,41.93,Y,F606W,nan,nan,Arp125
-Arp126,5539,4,29.5225,3.1,Y,F606W,nan,nan,Arp126
-Arp127,nan,4,9.7475,-9.0017,Y,F606W,nan,nan,Arp127
+Arp126,5539,4,29.5225,3.0865,Y,F606W,ADJUSTED COORDS,nan,Arp126
+Arp127,nan,4,9.7475,-9.0098,Y,F606W,ADJUSTED COORDS,nan,Arp127
 Arp129,nan,3,144.8525,32.3617,Y,F606W,nan,a bit small...,Arp129
 Arp130,nan,3,0.6575,16.6433,Y,F606W,nan,nan,Arp130
 Arp136,3335,4,224.6675,53.8867,Y,F606W,nan,nan,Arp136
 Arp138,4368,4,179.6775,25.0367,Y,F606W,nan,Nice occultor,Arp138
-Arp141,2709,4,108.5875,73.48,Y,F606W,nan,nan,Arp141
-Arp143,4015,4,116.72,39.0317,Y,F606W,nan,nan,Arp143
-Arp144,5800,4,1.6125,-13.4167,Y,F606W,nan,nan,Arp144
-Arp145,5425,4,35.7825,41.37,Y,F606W,nan,nan,Arp145
-Arp15,3764,4,342.915,-5.5583,Y,F606W,nan,nan,Arp15
+Arp141,2709,4,108.5875,73.4716,Y,F606W,ADJUSTED COORDS,nan,Arp141
+Arp143,4015,4,116.7273,39.023,Y,F606W,ADJUSTED COORDS,nan,Arp143
+Arp144,5800,4,1.6165,-13.4167,Y,F606W,ADJUSTED COORDS,nan,Arp144
+Arp145,5425,4,35.7928,41.37,Y,F606W,ADJUSTED COORDS,nan,Arp145
+Arp15,3764,4,342.9054,-5.5583,Y,F606W,ADJUSTED COORDS,nan,Arp15
 Arp150,nan,3,349.875,9.5083,Y,F606W,nan,nan,Arp150
 Arp156,nan,3,160.6575,77.495,Y,F606W,nan,nan,Arp156
 Arp158,4758,4,21.3325,34.025,Y,F606W,nan,nan,Arp158
@@ -33,17 +33,17 @@ Arp159,nan,3,192.94,25.775,Y,F606W,"Shallow F330, get 606",Has WFPC2; Check qual
 Arp163,nan,3,191.32,27.125,Y,F606W,nan,Most obs are STIS; FOC; NICMOS...,Arp163
 Arp164,nan,3,18.9875,5.1783,Y,F606W,nan,all NICMOS,Arp164
 Arp165,nan,3,114.1575,17.885,Y,F606W,nan,all nicmos,Arp165
-Arp171,nan,3,220.18,3.4533,Y,F606W,nan,"could be kinda dull, though maybe a dust lane? Could cut but ok to keep.",Arp171
+Arp171,nan,3,220.1733,3.4533,Y,F606W,ADJUSTED COORDS,"could be kinda dull, though maybe a dust lane? Could cut but ok to keep.",Arp171
 Arp172,nan,3,241.3875,17.6017,Y,F606W,nan,smooth.,Arp172
-Arp173,nan,3,222.86,9.3283,Y,F606W,nan,nan,Arp173
-Arp176,2965,4,195.9775,-11.5067,Y,F606W,nan,nan,Arp176
+Arp173,nan,3,222.8687,9.3208,Y,F606W,ADJUSTED COORDS,nan,Arp173
+Arp176,2965,4,195.9872,-11.4966,Y,F606W,ADJUSTED COORDS,nan,Arp176
 Arp18,757,4,181.3975,50.5417,Y,F606W,nan,Only NICMOS imaging! Ground based color image here: https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwiYhvb_idTYAhVW5WMKHbT7ASAQjBwIBA&url=http%3A%2F%2Fwww.deepskyforum.com%2Fattachment.php%3Fattachmentid%3D186%26d%3D1335722678&psig=AOvVaw1Bg0wqS5uccTKcCtom-QYz&ust=1515903201698869,Arp18
-Arp180,nan,4,73.3425,-4.8017,Y,F606W,nan,nan,Arp180
+Arp180,nan,4,73.3468,-4.7882,Y,F606W,ADJUSTED COORDS,nan,Arp180
 Arp184,3934,3,85.5175,69.38,Y,F475W,Has 606,NGC1961; WFPC2 but most in non-useful filters. Check. ,Arp184
 Arp19,4138,3,7.9375,-5.1533,Y,F606W,No HLA coverage,HST obs are mostly parallels -- may not have hit target. Check. SDSS image: https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwifuryK5dLYAhUQ9GMKHZwNCxEQjBwIBA&url=http%3A%2F%2Fwww.galaxyzoo.org.s3.amazonaws.com%2Fsubjects%2Fstandard%2F1237679078055673871.jpg&psig=AOvVaw2_vsZaxhrWCJqKhuO7lyFD&ust=1515859012882249,Arp19
 Arp190,10377,3,42.5452,12.8835,Y,F606W,nan,Adjust coords; ADJUSTED,Arp190
 Arp192,6281,4,159.2475,18.1367,Y,F606W,nan,nan,Arp192
-Arp195,16748,4,133.46,35.1433,Y,F606W,nan,nan,Arp195
+Arp195,16748,4,133.475,35.1463,Y,F606W,ADJUSTED COORDS,nan,Arp195
 Arp197,6143,3,172.7525,20.47,Y,F606W,nan,Do we believe tha blue stripe?  Less interesting if not real...,Arp197
 Arp198,8832,4,164.94,17.6483,Y,F606W,nan,nan,Arp198
 Arp199,3071,4,214.26,36.5717,Y,F606W,nan,nan,Arp199
@@ -59,27 +59,27 @@ Arp21,8677,3,166.245,30.0267,Y,F606W,nan,a bit small,Arp21
 Arp216,5024,3,352.195,3.5117,Y,F606W,No HLA coverage,NGC7679; WFPC 606W only; and may target other galaxy.  Check,Arp216
 Arp219,10521,3,57.9727,-2.1143,Y,F606W,"Position is OFF! 57.9715, -2.114 (Fixed), Size is OK, No HLA coverage",Need to adjust coord and check size....,Arp219
 Arp22,1668,3,179.8775,-19.2633,Y,F606W,"Has 814, partial",NGC4027; F814W imaging only. Could get second band Check. Found NNT image:  https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjK3NypitTYAhUJ7mMKHQjECOUQjxwIAw&url=https%3A%2F%2Fde.wikipedia.org%2Fwiki%2FNGC_4027&psig=AOvVaw273sR6mJseQ8NCG3R0VAy_&ust=1515903379963791,Arp22
-Arp221,nan,4,144.1,-11.3283,Y,F606W,nan,nan,Arp221
+Arp221,nan,4,144.1136,-11.3346,Y,F606W,ADJUSTED COORDS,nan,Arp221
 Arp222,1868,3,354.975,-12.2917,Y,F606W,"Deep WFPC2 (555+814), but poor coverage (JD: Would be good to get other half of galaxy. Include if room…)",NGC7727?; HST obs need to be checked. https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwis4fjmldTYAhVX_WMKHVRNAP8QjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F12%2FNGC_7727_Hubble_WikiSky.jpg%2F1200px-NGC_7727_Hubble_WikiSky.jpg&psig=AOvVaw1D_FOB_KA6FT-n7Vbq5pxh&ust=1515906452560227,Arp222
 Arp231,5797,3,10.89,-4.1183,Y,F606W,nan,nan,Arp231
 Arp24,1984,3,163.6525,56.99,Y,F606W,has 814,Mostly STIS; some WFPC2 web images are fairly weak looking: Check.  https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwinnKXP5dLYAhVS_WMKHaxcAS0QjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F21%2FNGC3445-HST-R814GB300-lin.jpg%2F250px-NGC3445-HST-R814GB300-lin.jpg&psig=AOvVaw0r7vMYbyvsvJLMobZevSr3&ust=1515859148075440,Arp24
 Arp241,10408,3,219.4625,30.4817,Y,F606W,nan,fairly distant,Arp241
 Arp245,nan,2,146.4399,-14.3504,Y,F606W,ADJUSTED COORDS,"Deepish WFPC2 of tail that doesn't lead to partner, but only 1 500s exposure (w/ CRs) of main body. Shift center toward companion (ADJUSTED).",Arp245
-Arp248,5276,3,176.6875,-3.8467,Y,F606W,nan,nan,Arp248
+Arp248,5276,3,176.6692,-3.8517,Y,F606W,ADJUSTED COORDS,nan,Arp248
 Arp249,nan,3,0.08,22.99,Y,F606W,nan,nan,Arp249
 Arp251,nan,3,13.445,-13.8617,Y,F606W,nan,nan,Arp251
 Arp253,nan,4,145.8525,-5.28,Y,F606W,nan,nan,Arp253
 Arp255,12308,3,148.2893,7.8697,Y,F606W,ADJUSTED COORDS,Obs are only FOC or SBC,Arp255
 Arp257,3322,3,132.91,-2.3667,Y,F606W,nan,only obs were FOC,Arp257
-Arp258,4107,3,39.77,18.3933,Y,F606W,nan,nan,Arp258
+Arp258,4107,3,39.7797,18.3811,Y,F606W,ADJUSTED COORDS,nan,Arp258
 Arp260,7127,3,183.4125,16.1217,Y,F606W,nan,nan,Arp260
 Arp262,nan,3,359.1875,16.8117,Y,F606W,nan,nan,Arp262
-Arp263,753,4,156.2725,17.16,Y,F606W,nan,nan,Arp263
+Arp263,753,4,156.2675,17.1495,Y,F606W,ADJUSTED COORDS,nan,Arp263
 Arp264,600,4,150.99,40.7567,Y,F606W,nan,nan,Arp264
 Arp267,586,2,159.1775,31.5467,Y,F606W, ,"low velocity Im, no HST obs",Arp267
-Arp270,1637,4,162.4575,32.98,Y,F606W,No HLA coverage,almost all obs are STIS or WFPC2. No press release image on web. Check.,Arp270
+Arp270,1637,4,162.4726,32.9848,Y,F606W,"No HLA coverage, ADJUSTED COORDS",almost all obs are STIS or WFPC2. No press release image on web. Check.,Arp270
 Arp275,5100,4,141.476,-11.9941,Y,F606W,ADJUSTED COORDS,nan,Arp275
-Arp276,4161,3,37.045,19.6,Y,F606W,nan,Possible occultor. Not the most interesting...,Arp276
+Arp276,4161,3,37.0473,19.5913,Y,F606W,ADJUSTED COORDS,Possible occultor. Not the most interesting...,Arp276
 Arp277,930,3,193.7125,2.6533,Y,F606W,nan,nan,Arp277
 Arp278,4718,4,334.8273,29.3633,Y,F606W,ADJUSTED COORDS,All obs are NICMOS. https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwifkYbQntHYAhUK52MKHZFnAWcQjBwIBA&url=https%3A%2F%2Fcseligman.com%2Ftext%2Fatlas%2Fngc7253.jpg&psig=AOvVaw2NuPVvorW05u777YIKE2eO&ust=1515805715151162,Arp278
 Arp279,1708,3,48.5375,-2.8233,Y,F606W,nan,Not all that disturbed. Could cut.,Arp279
@@ -94,23 +94,23 @@ Arp291,1216,3,160.7025,13.46,Y,F606W,nan,nan,Arp291
 Arp292,5973,4,148.6375,-6.8567,Y,F606W,nan,nan,Arp292
 Arp293,5600,3,254.3995,58.8479,Y,F606W,ADJUSTED COORDS,Only WFC3IR,Arp293
 Arp294,2674,3,174.8789,31.8762,Y,F606W,ADJUSTED COORDS,Shallow WFPC2 606 that doesn't cover everything. F330W ACS snap that looks good. F606W would be useful.  Check. Could cut. https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwigi_fpntTYAhVQ62MKHUW3BKMQjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fce%2FArp294-NGC3788-NGC3786-HST-606.jpg%2F768px-Arp294-NGC3788-NGC3786-HST-606.jpg&psig=AOvVaw0fgDZ3AO9Zn_gi_JxH98HH&ust=1515908853976059,Arp294
-Arp295,6966,3,355.45,-3.6767,Y,F606W,Adding ACS 606 will be good,WFCP2 303W and 814W. Check.,Arp295
-Arp3,1691,2,339.1425,-2.905,Y,F606W,nan,Vr=1691 km/s; No HST AV=0.14,Arp3
-Arp300,3600,3,142.01,68.4217,Y,F606W,WFPC2 300 and 814,"Mostly STIS or WFPC2, Check",Arp300
-Arp301,6173,3,167.465,24.2617,Y,F606W,nan,nan,Arp301
+Arp295,6966,3,355.45,-3.6665,Y,F606W,Adding ACS 606 will be good; ADJUSTED COORDS,WFCP2 303W and 814W. Check.,Arp295
+Arp3,1691,2,339.1485,-2.909,Y,F606W,ADJUSTED COORDS,Vr=1691 km/s; No HST AV=0.14,Arp3
+Arp300,3600,3,141.9899,68.4152,Y,F606W,WFPC2 300 and 814; ADJUSTED COORDS,"Mostly STIS or WFPC2, Check",Arp300
+Arp301,6173,3,167.4744,24.2617,Y,F606W,ADJUSTED COORDS,nan,Arp301
 Arp303,6136,3,146.5857,3.0585,Y,F606W,ADJUSTED COORDS,nan,Arp303
 Arp305,nan,3,179.6225,27.5283,Y,F606W,No HLA coverage,NGC 4016; Deep proprietary data but I think it's not pointed towards this. Check HLA,Arp305
-Arp309,4695,3,37.2925,-10.8367,Y,F606W,nan,nan,Arp309
+Arp309,4695,3,37.2925,-10.8269,Y,F606W,ADJUSTED COORDS,nan,Arp309
 Arp313,3133,3,179.4285,32.2934,Y,F606W,"No HLA coverage, ADJUSTED COORDS",Mostly STIS. WFCP2 300W and 606W -- Check HLA.,Arp313
 Arp314,3684,4,344.5202,-3.7794,Y,F606W,ADJUSTED COORDS,nan,Arp314
-Arp320,9114,3,174.465,21.9733,Y,F606W,nan,nan,Arp320
-Arp321,6685,4,144.7225,-4.86,Y,F606W,nan,nan,Arp321
+Arp320,9114,3,174.4712,21.9798,Y,F606W,ADJUSTED COORDS,nan,Arp320
+Arp321,6685,4,144.7225,-4.8494,Y,F606W,ADJUSTED COORDS,nan,Arp321
 Arp322,8094,3,173.1675,52.95,Y,F606W,nan,But what's that big thing up above?,Arp322
 Arp332,nan,3,47.1175,-23.0517,Y,F606W,nan,1 FOC observation,Arp332
 Arp334,7320,3,202.6075,31.62,Y,F606W,nan,nan,Arp334
 Arp335,7704,2,166.1,4.83,Y,F606W,nan,WFPC2 is very shallow ; https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwiG_cvhotHYAhUI7WMKHV0DDVEQjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fb%2Fbb%2FNGC_3509_hst_08669_26_R814GB555.png&psig=AOvVaw0_WrW9G1BJMhdmCyvllX1K&ust=1515806792006753,Arp335
 Arp4,1614,3,27.1075,-12.3817,Y,F606W,nan,Could cut -- not that disturbed...,Arp4
-Arp44,nan,3,156.3875,-2.2217,Y,F606W,nan,Highly extincted maybe???,Arp44
+Arp44,nan,3,156.3998,-2.2217,Y,F606W,ADJUSTED COORDS,Highly extincted maybe???,Arp44
 Arp49,2228,4,218.1075,8.08,Y,F606W,nan,nan,Arp49
 Arp58,11159,3,127.9925,19.2133,Y,F606W,nan,pretty but not major disturbance,Arp58
 Arp59,nan,3,15.19,-9.185,Y,F606W,nan,nan,Arp59
@@ -118,22 +118,22 @@ Arp6,431,4,123.31,45.9917,Y,F606W,nan,NICMOS only.,Arp6
 Arp62,5886,4,178.4127,43.4595,Y,F606W,ADJUSTED COORDS,nan,Arp62
 Arp65,5353,4,5.465,22.4,Y,F606W,nan,Only STIS obs.,Arp65
 Arp67,5228,3,20.32,-0.545,Y,F606W,nan,nan,Arp67
-Arp69,3602,4,215.11,35.1883,Y,F606W,nan,nan,Arp69
+Arp69,3602,4,215.1101,35.1811,Y,F606W,ADJUSTED COORDS,nan,Arp69
 Arp70,10493,4,20.8675,30.785,Y,F606W,nan,nan,Arp70
 Arp72,3299,2,236.7394,17.8832,Y,F606W,ADJUSTED COORDS,gorgeous; only observed w/ STIS.,Arp72
 Arp75,10584,4,27.8275,-4.055,Y,F606W,nan,nan,Arp75
-Arp82,4100,2,122.8075,25.2067,Y,F606W,nan,NGC2535. Deep WFPC2 but only of tail away from interaction partner. Center more towards partner.,Arp82
-Arp83,3276,4,175.055,15.3433,Y,F606W,nan,nan,Arp83
+Arp82,4100,2,122.8027,25.1994,Y,F606W,ADJUSTED COORDS,NGC2535. Deep WFPC2 but only of tail away from interaction partner. Center more towards partner.,Arp82
+Arp83,3276,4,175.0505,15.3384,Y,F606W,ADJUSTED COORDS,nan,Arp83
 Arp84,3471,4,209.6521,37.4332,Y,F606W,partial nicmos coverage; ADJUSTED COORDS,None of the HST data seems useful. Check. Ground based image: https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjUmOH2jdTYAhUQ3GMKHUOfDGcQjBwIBA&url=http%3A%2F%2F1.bp.blogspot.com%2F-SFRwQQ2WbtU%2FTr5uprlWtbI%2FAAAAAAAAED0%2F3BlLZRpTbJc%2Fs1600%2FGTC_Arp 84_n.jpg&psig=AOvVaw3aOXGwc7yNe3Ncrh0RoIDw&ust=1515904337317564,Arp84
 Arp86,4845,3,356.77,29.4833,Y,F606W,nan,nan,Arp86
 Arp89,2060,3,130.6675,14.285,Y,F606W,nan,ground based image: https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwj0juHFjtTYAhUK3mMKHbeRBXQQjBwIBA&url=http%3A%2F%2Ffaculty.etsu.edu%2Fsmithbj%2Fresearch%2Fsg%2Fsdss%2Farp89.jpg&psig=AOvVaw1r2pArmntK3LQ4klj3Cs69&ust=1515904499852339,Arp89
 Arp90,2539,3,231.5325,41.675,Y,F475W,"Has 606, partial",Obs are mostly WFPC2. Check.,Arp90
 Arp91,1966,3,233.635,15.195,Y,F475W,Has 606,Most obs WFPC2…Check.,Arp91
 Arp93,nan,4,337.1585,-24.8491,Y,F606W,ADJUSTED COORDS,AM2225-250 is the same pair as Arp 93 ,Arp93
-Arp97,6910,3,181.44,31.06,Y,F606W,nan,nan,Arp97
+Arp97,6910,3,181.44,31.0659,Y,F606W,ADJUSTED COORDS,nan,Arp97
 Arp-Madore0001-505,nan,3,1.1,-50.6284,Y,F606W,ADJUSTED COORDS,nan,Arp-Madore0001-505
 Arp-Madore0002-503,10377,3,1.3596,-50.2682,Y,F606W,No HLA coverage,WFC3; Check,Arp-Madore0002-503
-Arp-Madore0003-362,8657,3,1.4948,-36.1366,Y,F606W,nan,distant but lots going on.,Arp-Madore0003-362
+Arp-Madore0003-362,8657,3,1.4948,-36.1259,Y,F606W,ADJUSTED COORDS,distant but lots going on.,Arp-Madore0003-362
 Arp-Madore0003-414,1512,3,1.5852,-41.4966,Y,F606W,nan,nan,Arp-Madore0003-414
 Arp-Madore0004-413,nan,3,1.7761,-41.3566,Y,F606W,nan,nan,Arp-Madore0004-413
 Arp-Madore0005-301,1495,3,2.0899,-29.915,Y,F606W,nan,nan,Arp-Madore0005-301
@@ -151,8 +151,8 @@ Arp-Madore0112-554,3645,4,18.5922,-55.404,Y,F606W,nan,nan,Arp-Madore0112-554
 Arp-Madore0115-444,6866,4,19.5418,-44.4588,Y,F606W,nan,nan,Arp-Madore0115-444
 Arp-Madore0116-241,7040,4,19.691,-23.9423,Y,F606W,nan,nan,Arp-Madore0116-241
 Arp-Madore0117-412,5198,4,19.9954,-41.2362,Y,F606W,nan,nan,Arp-Madore0117-412
-Arp-Madore0122-381,nan,4,21.3037,-38.0684,Y,F606W,nan,nan,Arp-Madore0122-381
-Arp-Madore0134-373,5188,4,24.1003,-37.3286,Y,F606W,nan,NGC633; NICMOS only,Arp-Madore0134-373
+Arp-Madore0122-381,nan,4,21.3084,-38.0801,Y,F606W,ADJUSTED COORDS,nan,Arp-Madore0122-381
+Arp-Madore0134-373,5188,4,24.1003,-37.326,Y,F606W,ADJUSTED COORDS,NGC633; NICMOS only,Arp-Madore0134-373
 Arp-Madore0135-650,8047,4,24.3502,-64.8959,Y,F606W,nan,nan,Arp-Madore0135-650
 Arp-Madore0136-301,5883,3,24.7683,-29.9184,Y,F606W,ADJUSTED COORDS,nan,Arp-Madore0136-301
 Arp-Madore0136-433,nan,4,24.7686,-43.3599,Y,F606W,nan,nan,Arp-Madore0136-433
@@ -165,7 +165,7 @@ Arp-Madore0147-271,9052,3,27.3796,-27.0804,Y,F606W,nan,nan,Arp-Madore0147-271
 Arp-Madore0154-441,5740,3,29.176,-43.9805,Y,F606W,ADJUSTED COORDS,nan,Arp-Madore0154-441
 Arp-Madore0155-580,6098,3,29.4074,-57.7869,Y,F606W,nan,Weird but not super weird spiral. Could cut...,Arp-Madore0155-580
 Arp-Madore0200-220,nan,3,30.5701,-21.7632,Y,F606W,ADJUSTED COORDS,nan,Arp-Madore0200-220
-Arp-Madore0203-325,5903,3,31.4353,-32.6784,Y,F606W,nan,nan,Arp-Madore0203-325
+Arp-Madore0203-325,5903,3,31.4418,-32.6779,Y,F606W,ADJUSTED COORDS,nan,Arp-Madore0203-325
 Arp-Madore0218-321,nan,3,35.2573,-31.9435,Y,F606W,nan,nan,Arp-Madore0218-321
 Arp-Madore0223-245,nan,3,36.4895,-24.712,Y,F606W,nan,nan,Arp-Madore0223-245
 Arp-Madore0223-403,5792,3,36.3046,-40.4299,Y,F606W,nan,nan,Arp-Madore0223-403
@@ -174,7 +174,7 @@ Arp-Madore0227-264,4871,3,37.3647,-26.5345,Y,F606W,nan,nan,Arp-Madore0227-264
 Arp-Madore0227-484,5452,3,37.321,-48.4912,Y,F606W,nan,Probably not a collisional ring.,Arp-Madore0227-484
 Arp-Madore0230-393,1435,2,38.1709,-39.2987,Y,F606W,nan,"NGC 0986A; Vr=1435 so not that close…Nice little starburst., though edge on. IRAS.",Arp-Madore0230-393
 Arp-Madore0230-524,nan,3,38.1059,-52.4957,Y,F606W,ADJUSTED COORDS,A little distant; but pretty disturbed.,Arp-Madore0230-524
-Arp-Madore0239-242,1545,3,40.5221,-24.1308,Y,F606W,nan,nan,Arp-Madore0239-242
+Arp-Madore0239-242,1545,3,40.5292,-24.1308,Y,F606W,ADJUSTED COORDS,nan,Arp-Madore0239-242
 Arp-Madore0307-411,955,3,47.4081,-41.0324,Y,F606W,nan,ESO 300- G 014; Vr=955 km/s; in S4G; obs is only FOC,Arp-Madore0307-411
 Arp-Madore0311-252,1733,3,48.4177,-25.1859,Y,F606W,nan,UGCA 061; Vr=1733km/s; in S4G. HI,Arp-Madore0311-252
 Arp-Madore0311-573,1146,3,48.2735,-57.3593,Y,F606W,"No HLA coverage, ADJUSTED COORDS",ESO 116- G 012. Vr=1146; HRC; FOS; single WFPC2. Check. in S4G,Arp-Madore0311-573
@@ -184,7 +184,7 @@ Arp-Madore0322-374,1405,3,50.9787,-37.5138,Y,F475W,Has 606,WFPC2 606W only. Chec
 Arp-Madore0329-502,nan,4,52.6608,-50.3151,Y,F606W,ADJUSTED COORDS,nan,Arp-Madore0329-502
 Arp-Madore0333-513,1026,2,53.742,-51.4496,Y,F606W,nan,No HST. Very small faint blue Im.,Arp-Madore0333-513
 Arp-Madore0338-224,1585,3,55.2372,-22.5651,Y,F606W,nan,"Could cut. Not  disturbed. But; possible inner starburst. No HST, but radio and IRAS detections.",Arp-Madore0338-224
-Arp-Madore0338-375,nan,4,55.0221,-37.7861,Y,F606W,nan,nan,Arp-Madore0338-375
+Arp-Madore0338-375,nan,4,55.0221,-37.7952,Y,F606W,ADJUSTED COORDS to other part of pair,nan,Arp-Madore0338-375
 Arp-Madore0346-222,12343,4,57.2531,-22.2399,Y,F606W,nan,nan,Arp-Madore0346-222
 Arp-Madore0357-460,898,3,59.8132,-45.8725,Y,F606W,nan,Horologium Dwarf Vr=898 km/s,Arp-Madore0357-460
 Arp-Madore0400-420,4441,3,60.4645,-41.9401,Y,F606W,nan,nan,Arp-Madore0400-420
@@ -201,16 +201,16 @@ Arp-Madore0432-625,nan,4,68.1396,-62.8643,Y,F606W,nan,AM 0432-625 ; no redshift.
 Arp-Madore0445-572,975,4,71.5738,-57.3431,Y,F606W,nan,nan,Arp-Madore0445-572
 Arp-Madore0447-595,1228,3,72.089,-59.7956,Y,F475W,nan,"Nicmos plus 1 filter 606W WFPC2 (600sec, doesn't cover whole galaxy. Get F475W?). Not all that disturbed. Could cut.",Arp-Madore0447-595
 Arp-Madore0448-320,1052,3,72.4284,-32.0092,Y,F606W,"Shallow, but extra filter will allow color; AJDUSTED COORDS",Limited WPFC2 Check. NGC 1679; Vr=1052 km/s; https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjdq_GzqdHYAhUL3mMKHZizCHQQjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F5%2F5f%2FNGC1679-hst-R814GB300.jpg%2F600px-NGC1679-hst-R814GB300.jpg&psig=AOvVaw2GBByFBmQPX_l1CsmvZckJ&ust=1515808630350189,Arp-Madore0448-320
-Arp-Madore0454-561,1777,3,73.9274,-56.2407,Y,F606W,nan,nan,Arp-Madore0454-561
+Arp-Madore0454-561,1777,3,73.9274,-56.2355,Y,F606W,ADJUSTED COORDS,nan,Arp-Madore0454-561
 Arp-Madore0456-224,nan,3,74.72,-22.6737,Y,F606W,nan,nan,Arp-Madore0456-224
-Arp-Madore0459-340,5269,4,75.4211,-34.0321,Y,F606W,nan,nan,Arp-Madore0459-340
+Arp-Madore0459-340,5269,4,75.4187,-34.0248,Y,F606W,ADJUSTED COORDS,nan,Arp-Madore0459-340
 Arp-Madore0503-380,1211,3,76.3169,-37.9714,Y,F606W,nan,Nice but not that disturbed. Could cut.,Arp-Madore0503-380
 Arp-Madore0507-222,9749,3,77.4832,-22.2967,Y,F606W,nan,nan,Arp-Madore0507-222
 Arp-Madore0507-630,1445,3,76.9328,-62.9901,Y,F606W,nan,nan,Arp-Madore0507-630
 Arp-Madore0510-330,929,3,77.993,-32.9776,Y,F606W,nan,UGCA 106; Vr=929 km/s; S4G. GALEX. Not intrinsically disturbed but good SF... Could cut.,Arp-Madore0510-330
 Arp-Madore0515-540,3994,3,79.0251,-54.108,Y,F606W,nan,nan,Arp-Madore0515-540
 Arp-Madore0517-321,1240,3,79.9516,-32.1436,Y,F606W,nan,Not drastically disturbed. Could cut.,Arp-Madore0517-321
-Arp-Madore0519-611,4911,3,80.0817,-61.2583,Y,F606W,nan,Get both galaxies on...,Arp-Madore0519-611
+Arp-Madore0519-611,4911,3,80.0817,-61.2797,Y,F606W,ADJUSTED COORDS,Get both galaxies on...,Arp-Madore0519-611
 Arp-Madore0519-612,4784,4,80.0893,-61.295,Y,F606W,nan,nan,Arp-Madore0519-612
 Arp-Madore0520-390,15114,3,80.6775,-39.0643,Y,F606W,ADJUSTED COORDS,nan,Arp-Madore0520-390
 Arp-Madore0526-393,nan,3,82.0084,-39.5769,Y,F606W,nan,nan,Arp-Madore0526-393
@@ -254,7 +254,7 @@ Arp-Madore1158-345,nan,4,180.2487,-35.2023,Y,F606W,nan,nan,Arp-Madore1158-345
 Arp-Madore1200-251,1776,3,180.8711,-25.4684,Y,F606W,nan,ESO 505- G 007; Vr=1776; Coud be too LSB. Is that a star or a nucleus?,Arp-Madore1200-251
 Arp-Madore1203-223,1723,3,181.5306,-22.85,Y,F606W,nan,Could cut. ,Arp-Madore1203-223
 Arp-Madore1207-292,2132,3,182.5593,-29.7399,Y,F606W,nan,nan,Arp-Madore1207-292
-Arp-Madore1213-430,1989,3,184.0525,-43.3631,Y,F475W,"Has 606, partial",NGC 4219 likely starburst. Single filter 606W WFPC2 but could get another filter. Check..: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/NGC_4219_hst_06359_G606.png/600px-NGC_4219_hst_06359_G606.png,Arp-Madore1213-430
+Arp-Madore1213-430,1989,3,184.1164,-43.322,Y,F475W,"Has 606, partial; ADJUSTED COORDS",NGC 4219 likely starburst. Single filter 606W WFPC2 but could get another filter. Check..: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/NGC_4219_hst_06359_G606.png/600px-NGC_4219_hst_06359_G606.png,Arp-Madore1213-430
 Arp-Madore1214-255,11822,3,184.2416,-26.2111,Y,F606W,nan,nan,Arp-Madore1214-255
 Arp-Madore1223-385,nan,3,186.54,-39.1252,Y,F606W,nan,nan,Arp-Madore1223-385
 Arp-Madore1229-512,2617,4,187.9748,-51.7477,Y,F606W,nan,ESO 218- G 008 ; Vr=2617; DO SEPARATE HST PROGRAM ON THIS????,Arp-Madore1229-512
@@ -268,8 +268,8 @@ Arp-Madore1303-371,nan,3,196.5378,-37.5909,Y,F606W,ADJUSTED COORDS,A bit distant
 Arp-Madore1307-425,2143,3,197.5007,-43.2111,Y,F606W,nan,nan,Arp-Madore1307-425
 Arp-Madore1307-461,3106,3,197.5183,-46.4361,Y,F606W,nan,low latitude so image may be confusing. Cut if needed.,Arp-Madore1307-461
 Arp-Madore1315-350,3222,3,199.6097,-35.3529,Y,F606W,nan,nan,Arp-Madore1315-350
-Arp-Madore1316-240,10145,3,199.7616,-24.4226,Y,F606W,nan,nan,Arp-Madore1316-240
-Arp-Madore1317-303,nan,4,200.1134,-30.902,Y,F606W,nan,nan,Arp-Madore1317-303
+Arp-Madore1316-240,10145,3,199.7676,-24.4191,Y,F606W,ADJUSTED COORDS,nan,Arp-Madore1316-240
+Arp-Madore1317-303,nan,4,200.1134,-30.908,Y,F606W,ADJUSTED COORDS,nan,Arp-Madore1317-303
 Arp-Madore1324-294,1898,3,201.7534,-30.0742,Y,F606W,nan,nan,Arp-Madore1324-294
 Arp-Madore1325-292,4376,4,201.9612,-29.6189,Y,F606W,nan,nan,Arp-Madore1325-292
 Arp-Madore1332-331,nan,4,203.7844,-33.4822,Y,F606W,nan,nan,Arp-Madore1332-331
@@ -289,27 +289,27 @@ Arp-Madore1912-860,2435,4,292.7355,-86.0141,Y,F606W,ADJUSTED COORDS,nan,Arp-Mado
 Arp-Madore1914-603,3783,4,289.6232,-60.5047,Y,F606W,ADJUSTED COORDS,nan,Arp-Madore1914-603
 Arp-Madore1931-610,1792,3,294.0032,-61.0292,Y,F606W,nan,Vr=1792 km/s,Arp-Madore1931-610
 Arp-Madore1953-260,nan,4,299.1222,-25.9144,Y,F606W,nan,nan,Arp-Madore1953-260
-Arp-Madore1957-471,6359,4,300.247,-47.0683,Y,F606W,nan,1 FOC observation,Arp-Madore1957-471
+Arp-Madore1957-471,6359,4,300.247,-47.0763,Y,F606W,ADJUSTED COORDS,1 FOC observation,Arp-Madore1957-471
 Arp-Madore2001-602,3741,3,301.5547,-60.2131,Y,F606W,nan,nan,Arp-Madore2001-602
-Arp-Madore2019-442,16650,3,305.7545,-44.2673,Y,F606W,nan,A bit small.,Arp-Madore2019-442
+Arp-Madore2019-442,16650,3,305.7406,-44.2765,Y,F606W,ADJUSTED COORDS,A bit small.,Arp-Madore2019-442
 Arp-Madore2026-424,15564,4,307.3869,-42.5026,Y,F606W,nan,nan,Arp-Madore2026-424
 Arp-Madore2029-544,nan,3,308.3729,-54.5267,Y,F606W,ADJUSTED COORDS,ESO 186- G 060 (Vr=3625) -- source on left in IC 5021 at similar Vr. ,Arp-Madore2029-544
 Arp-Madore2031-440,8988,4,308.6597,-43.8393,Y,F606W,nan,nan,Arp-Madore2031-440
 Arp-Madore2034-521,4543,3,309.5859,-52.1093,Y,F606W,nan,can we target companion as well?,Arp-Madore2034-521
 Arp-Madore2035-521,4777,3,309.6899,-52.1406,Y,F606W,nan,nan,Arp-Madore2035-521
 Arp-Madore2038-323,5592,3,310.3105,-32.483,Y,F606W,nan,Disturbed but not crazy. Could cut.,Arp-Madore2038-323
-Arp-Madore2038-382,6092,4,310.3094,-38.198,Y,F606W,nan,nan,Arp-Madore2038-382
+Arp-Madore2038-382,6092,4,310.318,-38.198,Y,F606W,ADJUSTED COORDS,nan,Arp-Madore2038-382
 Arp-Madore2038-654,1623,3,310.8383,-65.6472,Y,F606W,ADJUSTED COORDS,IC 5028; Vr=1623. In nearby galaxy catalog.,Arp-Madore2038-654
 Arp-Madore2040-295,2720,4,310.8911,-29.7058,Y,F606W,nan,Very unusual dust lane (spiral arm dragged out vertically?),Arp-Madore2040-295
 Arp-Madore2042-382,nan,3,311.3691,-38.1741,Y,F606W,nan,Fairly smooth but good straight tidal arm,Arp-Madore2042-382
-Arp-Madore2048-571,3402,3,313.0004,-57.0685,Y,F606W,Shallow and bad,Almost all imaging is in weird filters. Decent F606W w/ WFPC2 but then UV and NICMOS. Check.,Arp-Madore2048-571
+Arp-Madore2048-571,3402,3,313.0086,-57.0685,Y,F606W,Shallow and bad; ADJUSTED COORDS,Almost all imaging is in weird filters. Decent F606W w/ WFPC2 but then UV and NICMOS. Check.,Arp-Madore2048-571
 Arp-Madore2050-441,5368,2,313.5838,-44.0628,Y,F606W,nan,Nice rings. No HST. Good fit to FOV.,Arp-Madore2050-441
-Arp-Madore2051-410,12579,3,313.6249,-40.8127,Y,F606W,nan,nan,Arp-Madore2051-410
+Arp-Madore2051-410,12579,3,313.6311,-40.8072,Y,F606W,ADJUSTED COORDS,nan,Arp-Madore2051-410
 Arp-Madore2055-541,nan,4,314.7274,-54.157,Y,F606W,ADJUSTED COORDS,AM 2055-541; line is real.,Arp-Madore2055-541
 Arp-Madore2056-392,nan,3,315.0327,-39.2994,Y,F606W,nan,nan,Arp-Madore2056-392
 Arp-Madore2100-393,2762,3,315.8894,-39.4464,Y,F606W,nan,ESO 341- G 032; Vr=2762 km/s. In S4G,Arp-Madore2100-393
 Arp-Madore2103-550,1405,3,316.8904,-54.9532,Y,F606W,"Shallow, would be good to get 606",ESO 187- G 05; Vr=1405. Has only 814W imaging.  Check if worth adding blue filter.,Arp-Madore2103-550
-Arp-Madore2105-332,nan,3,317.029,-33.2409,Y,F606W,nan,nan,Arp-Madore2105-332
+Arp-Madore2105-332,nan,3,317.029,-33.2339,Y,F606W,ADJUSTED COORDS,nan,Arp-Madore2105-332
 Arp-Madore2106-374,2614,3,317.5034,-37.501,Y,F606W,nan,nan,Arp-Madore2106-374
 Arp-Madore2113-341,8801,4,319.2605,-33.9902,Y,F606W,nan,nan,Arp-Madore2113-341
 Arp-Madore2115-273,nan,3,319.5894,-27.3508,Y,F606W,nan,nan,Arp-Madore2115-273
@@ -322,7 +322,7 @@ Arp-Madore2143-464,9666,4,326.5632,-46.5187,Y,F606W,No HLA coverage,NGC 7119 Vr=
 Arp-Madore2145-351,nan,3,327.0772,-34.9539,Y,F475W,"606 is not great but there, Get 475",For that much HST obs; it's not clear there's much useful imaging beyond 606. Check. https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwinmL-DiNTYAhVW02MKHdIwBxgQjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F2e%2FNGC_7130_hst_05479_606.png%2F1200px-NGC_7130_hst_05479_606.png&psig=AOvVaw3nUJPCrGTjPDgBQI7WySDG&ust=1515902744435154,Arp-Madore2145-351
 Arp-Madore2146-350,2644,4,327.4515,-34.8653,Y,F606W,ADJUSTED COORDS,nan,Arp-Madore2146-350
 Arp-Madore2159-320,2603,3,330.4598,-31.9095,Y,F475W,"606 is there, ADJUSTED COORDS",NGC7172; one viable WFPC2 606W observation; Check. Could add second filter.,Arp-Madore2159-320
-Arp-Madore2159-330,2670,4,330.68,-32.8031,Y,F606W,nan,nan,Arp-Madore2159-330
+Arp-Madore2159-330,2670,4,330.685,-32.8031,Y,F606W,ADJUSTED COORDS,nan,Arp-Madore2159-330
 Arp-Madore2159-541,1708,3,330.6574,-54.0766,Y,F606W,nan,Vr=1708 km/s; so not that nearby...,Arp-Madore2159-541
 Arp-Madore2203-281,6999,4,331.5737,-27.9586,Y,F606W,ADJUSTED COORDS,nan,Arp-Madore2203-281
 Arp-Madore2204-311,2590,4,331.7215,-31.0523,Y,F606W,nan,nan,Arp-Madore2204-311
@@ -333,19 +333,19 @@ Arp-Madore2210-262,4853,4,333.2824,-26.1487,Y,F606W,nan,nan,Arp-Madore2210-262
 Arp-Madore2210-693,3107,3,333.6806,-69.3614,Y,F606W,nan,IC 5173; Vr=3107,Arp-Madore2210-693
 Arp-Madore2213-370,3422,4,334.042,-36.8437,Y,F606W,nan,only nicmos,Arp-Madore2213-370
 Arp-Madore2220-423,2421,3,335.8919,-42.2782,Y,F606W,nan,vr=2421 km/s so not that close...,Arp-Madore2220-423
-Arp-Madore2222-275,nan,3,336.3671,-27.6939,Y,F606W,nan,distant but messy.,Arp-Madore2222-275
+Arp-Madore2222-275,nan,3,336.3692,-27.7046,Y,F606W,ADJUSTED COORDS,distant but messy.,Arp-Madore2222-275
 Arp-Madore2224-310,4055,3,336.7245,-30.8866,Y,F606W,nan,nan,Arp-Madore2224-310
 Arp-Madore2230-481,nan,4,338.4452,-48.0247,Y,F606W,ADJUSTED COORDS,nan,Arp-Madore2230-481
 Arp-Madore2240-892,2558,3,347.4515,-89.1212,Y,F606W,ADJUSTED COORDS,NGC 2573B; V4=2558,Arp-Madore2240-892
-Arp-Madore2244-651,3148,4,341.8369,-65.0644,Y,F606W,nan,HST images is UV FOC.,Arp-Madore2244-651
+Arp-Madore2244-651,3148,4,341.8286,-65.0522,Y,F606W,ADJUSTED COORDS,HST images is UV FOC.,Arp-Madore2244-651
 Arp-Madore2254-373,1792,3,344.2292,-37.3492,Y,F475W,"Has 606, partial",WFPC2 but only in 606. Could get other one.  Check; https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwi08uiN4tLYAhVC02MKHXLOBZsQjBwIBA&url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fb%2Fb5%2FNGC_7421_hst_06359_606.png&psig=AOvVaw16FLNBtMCoSZHkcWIIalyA&ust=1515858228188649,Arp-Madore2254-373
 Arp-Madore2258-595,10007,3,345.377,-59.636,Y,F606W,nan,nan,Arp-Madore2258-595
 Arp-Madore2259-692,3901,3,345.7609,-69.2106,Y,F606W,nan,Jets or disrupting satellite? Moderately distant...,Arp-Madore2259-692
 Arp-Madore2303-305,8504,4,346.4548,-30.6118,Y,F606W,ADJUSTED COORDS,nan,Arp-Madore2303-305
-Arp-Madore2325-473,15238,4,351.9559,-47.3812,Y,F606W,nan,nan,Arp-Madore2325-473
+Arp-Madore2325-473,15238,4,351.9559,-47.3783,Y,F606W,ADJUSTED COORDS,nan,Arp-Madore2325-473
 Arp-Madore2339-661,10622,4,355.6587,-65.9521,Y,F606W,ADJUSTED COORDS,nan,Arp-Madore2339-661
 Arp-Madore2346-380,648,3,357.3478,-37.7736,Y,F606W,nan,Vr=648 km/s so pretty close,Arp-Madore2346-380
-Arp-Madore2348-405,1697,4,357.7432,-40.7201,Y,F606W,nan,nan,Arp-Madore2348-405
-Arp-Madore2350-302,nan,3,358.3297,-30.1534,Y,F606W,nan,ESO 471-IG 037; Vr=14493 so pretty distant. But; means scale of tails is huge.,Arp-Madore2350-302
+Arp-Madore2348-405,1697,4,357.7228,-40.7297,Y,F606W,ADJUSTED COORDS,nan,Arp-Madore2348-405
+Arp-Madore2350-302,nan,3,358.3392,-30.152,Y,F606W,ADJUSTED COORDS,ESO 471-IG 037; Vr=14493 so pretty distant. But; means scale of tails is huge.,Arp-Madore2350-302
 Arp-Madore2350-410,9162,3,358.3449,-40.8084,Y,F606W,Shallow and bad coverage,Nice rings. No HST. Good fit to FOV.,Arp-Madore2350-410
 Arp-Madore2353-291,9054,3,359.0982,-29.0266,Y,F606W,nan,nan,Arp-Madore2353-291
