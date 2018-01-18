@@ -22,7 +22,7 @@ df_jd2.fillna('None', inplace=True)
 df_jd3 = pd.read_csv('static/jd_round3_ned_2.csv', dtype=str, index_col='ID')
 df_jd3.fillna('None', inplace=True)
 
-df_final = pd.read_csv('static/final.csv', dtype=str, index_col='ID')
+df_final = pd.read_csv('static/revised.csv', dtype=str, index_col='ID')
 df_final.fillna('None', inplace=True)
 
 
@@ -228,5 +228,5 @@ def send_csv_jd():
     return send_file(outfile_jd)
 
 if __name__ == '__main__':
-    app.debug = True # set this to false before putting on production!!!
+    app.debug = False # set this to false before putting on production!!!
     app.run()
